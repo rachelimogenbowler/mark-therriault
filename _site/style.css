@@ -128,6 +128,7 @@ padding: 1rem;
 
 .post-title {
     color: white;
+    margin: 5%;
   }
 
 .blog-feature-text {
@@ -143,8 +144,6 @@ body {
 /* section, div {
   border: 1px solid rgb(60, 60, 65);
 } */
-
-
 
 h1 {
   font-size: 4rem;
@@ -212,7 +211,7 @@ footer a {
 }
 
 footer a:hover {
-  color: #3D4D54;
+  color: #909DA1;
 }
 
 footer .fab {
@@ -224,6 +223,22 @@ footer h2 {
   font-size: 1rem;
   color: white;
   margin: 1.5rem;
+}
+
+section {
+  position: relative;
+}
+
+.absolute-tag {
+  position: absolute;
+  bottom: -1rem;
+}
+
+.post-info {
+    width: 25%;
+    position: absolute;
+    bottom: -1rem;
+    transform: translate(10%);
 }
 
 /* ------ BANNER -------- */

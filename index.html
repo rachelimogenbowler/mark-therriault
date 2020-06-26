@@ -1,49 +1,6 @@
-<!DOCTYPE html>
-
-<html>
-
-<!-- This is the head section where we add external resources and links -->
-
-<head>
-  <title> Mark Therriault </title>
-
- <!-- Viewport meta tag for responsiveness on mobile -->
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-
-  <!-- Gridlex code for the grid layouts -->
-  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/gridlex/2.7.1/gridlex.min.css">
-
-  <!-- Google fonts -->
-  <!-- 200 - Extra light, 300 - light, 500, medium, 700 - bold -->
-  <link href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,200;0,300;0,400;0,500;0,700;1,300&display=swap" rel="stylesheet">
-
-  <!-- Font Awesome (Social Icons Font) - - -->
-  <script src="https://kit.fontawesome.com/a6a167b666.js" crossorigin="anonymous"></script>
-
-
-  <!-- my custom stylesheet -->
-  <link href="style.css" rel="stylesheet">
-</head>
-
-
-<!-- MAIN CONTENT OF THE PAGE -->
-
-<body>
-
-  <!-- THE MAIN HEADER & NAV MENU -->
-  <header class="grid">
-    <div class="col-4_sm-12 no-padding">
-      <h1> Mark Therriault </h1>
-    </div>
-
-    <nav class="col-8_sm12-middle right no-padding">
-      <a href="#"> About </a>
-      <a href="#"> Blog </a>
-      <a href="#"> Speaking </a>
-      <a href="#"> Contact </a>
-    </nav>
-
-  </header>
+---
+layout: default
+---
 
   <!-- MAIN INTRO BANNER SECTION -->
   <section class="banner bg-image padded center grid">
@@ -83,6 +40,7 @@
   <!-- 'WHAT'S NEW' SECTION WHICH FEATURES LATEST POSTS -->
 
 <section class="padded-feature center grid">
+  <!-- Column for bog feature heading -->
   <div class="col-12 center">
     <h2 class="text-alt"> What's new </h2>
       <h3> The latest in The Hub </h3>
@@ -90,7 +48,7 @@
 
   <div class="col-4_sm-12 padded-1">
     <div class="featured-bg-image" style="background-image:url(images/website_placeholder_4.jpg)">
-      <div class="col-3 bg-dark">
+      <div class="col-3 bg-dark post-info">
         <div class="post-category"
           <h3> Blog </h3>
         </div>
@@ -103,12 +61,12 @@
 
   <div class="col-4_sm-12 padded-1">
     <div class="featured-bg-image" style="background-image:url(images/website_placeholder_4.jpg)">
-      <div class="col-3 bg-dark">
+      <div class="col-3 bg-dark post-info">
         <div class="post-category"
           <h2> Podcast </h2>
         </div>
         <div class="post-title"
-          <h3> Full Descriptive Podcast Title </h3>
+          <h3> This is a next level blog post about the next level stuff I do in next level places </h3>
         </div>
       </div>
     </div>
@@ -116,7 +74,7 @@
 
   <div class="col-4_sm-12 padded-1">
     <div class="featured-bg-image" style="background-image:url(images/website_placeholder_4.jpg)">
-      <div class="col-3 bg-dark">
+      <div class="col-3 bg-dark post-info">
         <div class="post-category"
           <h3> Video </h3>
         </div>
@@ -136,29 +94,3 @@
     <a href="#" class="button"> Contact </a>
   </div>
   </section>
-
-
-  <!-- this is the footer -->
-  <footer class="padded center bg-dark grid-center">
-    <div class="col-8_sm-12">
-    <nav>
-      <a href="#">
-        <i class="fab fa-facebook-f"></i>
-      </a>
-      <a href="#">
-        <i class="fab fa-instagram"></i>
-      </a>
-      <a href="#">
-        <i class="fab fa-youtube"></i>
-      </a>
-      <a href="#">
-        <i class="fab fa-linkedin-in"></i>
-      </a>
-
-    <h2 class="text-light"> Leave Your Mark </h2>
-    </div>
-
-  </footer>
-</body>
-
-</html>
