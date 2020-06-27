@@ -3,6 +3,7 @@ layout: default
 title: First Blog Post
 description: Short description of first blog post
 featured-image: website_placeholder_2
+author: Mark T
 banner-heading: My First Post
 ---
 
