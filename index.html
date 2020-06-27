@@ -1,6 +1,13 @@
 ---
 layout: default
 title: Mark Therriault | Leave Your Mark
+latest-blog-posts:
+  - post-media: Blog
+    post-title: First Blog Post
+  - post-media: Podcast
+    post-title: Second Blog Post
+  - post-media: Video
+    post-title: Third Blog Post
 ---
 
   <!-- MAIN INTRO BANNER SECTION -->
@@ -47,10 +54,29 @@ title: Mark Therriault | Leave Your Mark
       <h3> The latest in The Hub </h3>
   </div>
 
+<!-- TRYING TO JEKYLLIFY LATEST POSTS
+
+  {% for latest-blog-posts in page.latest-blog-posts}
   <div class="col-4_sm-12 padded-1">
     <div class="featured-bg-image" style="background-image:url(images/website_placeholder_4.jpg)">
       <div class="col-3 bg-dark post-info">
-        <div class="post-category"
+        <div class="post-media"
+          <h3> {{latest-blog-posts.post-media}} </h3>
+        </div>
+        <div class="post-title"
+          <h2> {{latest-blog-posts.post-title}} </h2>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  {% endfor %}
+-->
+
+  <div class="col-4_sm-12 padded-1">
+    <div class="featured-bg-image" style="background-image:url(images/website_placeholder_4.jpg)">
+      <div class="col-3 bg-dark post-info">
+        <div class="post-media"
           <h3> Blog </h3>
         </div>
         <div class="post-title"
@@ -63,7 +89,7 @@ title: Mark Therriault | Leave Your Mark
   <div class="col-4_sm-12 padded-1">
     <div class="featured-bg-image" style="background-image:url(images/website_placeholder_4.jpg)">
       <div class="col-3 bg-dark post-info">
-        <div class="post-category"
+        <div class="post-media"
           <h2> Podcast </h2>
         </div>
         <div class="post-title"
@@ -76,7 +102,7 @@ title: Mark Therriault | Leave Your Mark
   <div class="col-4_sm-12 padded-1">
     <div class="featured-bg-image" style="background-image:url(images/website_placeholder_4.jpg)">
       <div class="col-3 bg-dark post-info">
-        <div class="post-category"
+        <div class="post-media"
           <h3> Video </h3>
         </div>
         <div class="post-title"
@@ -86,6 +112,7 @@ title: Mark Therriault | Leave Your Mark
     </div>
   </div>
 </section>
+
 
   <!--  CTA 'how can I help you' SECTION -->
   <section class="padded center sub-section-bg bg-mid grid-center">

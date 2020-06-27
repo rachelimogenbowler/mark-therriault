@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: First Blog Post
 description: Short description of first blog post
 featured-image: website_placeholder_2
