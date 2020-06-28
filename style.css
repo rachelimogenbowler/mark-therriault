@@ -5,6 +5,11 @@
   box-sizing: border-box;
 }
 
+img {
+  max-width: 100%;
+  height:auto;
+}
+
 /* Utiity classes */
 .left {
   text-align: left;
@@ -90,7 +95,7 @@
   background-size: cover;
   background-position: center;
   background-color: #909DA1;
-  min-height: 30rem;
+  padding-bottom: 125%;
 }
 
 .fill-page-bg {
@@ -119,17 +124,7 @@
   color: white;
 }
 
-.post-media {
-text-transform: uppercase;
-color: #AC823A;
-font-weight: 700;
-padding: 1rem;
-}
 
-.post-title {
-    color: white;
-    margin: 5%;
-  }
 
 .blog-feature-text {
   text-align: right;
@@ -208,15 +203,19 @@ footer a {
   font-weight: bold;
   padding: 0.5rem;
   display: inline-block;
+  transition: all 0.2s;
 }
 
-footer a:hover {
+footer a:hover,
+footer .fab:hover {
   color: #909DA1;
+
 }
 
 footer .fab {
   font-size: 2rem;
   color: white;
+  transition: all 0.5s;
 }
 footer h2 {
   text-transform: uppercase;
@@ -236,11 +235,30 @@ section {
 
 /* ------  Blog Post Bits ------ */
 
+.post-loop-item {
+  color: inherit;
+  text-decoration: none;
+}
+
 .post-info {
-    width: 25%;
-    position: absolute;
-    bottom: -1rem;
-    transform: translate(10%);
+  margin-left: 1rem;
+  margin-right: 1rem;
+  margin-top: -3rem;
+  padding: 1rem;
+  min-height: 14rem;
+}
+
+.post-media {
+  text-transform: uppercase;
+  color: #AC823A;
+  font-weight: 700;
+}
+
+.post-title {
+    color: white;
+  }
+.post-title h2 {
+  margin-bottom: 0;
 }
 
 .main-body {
