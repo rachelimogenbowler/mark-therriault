@@ -7,7 +7,6 @@
 <head>
 
   <title> Blog </title>
-  <link rel="stylesheet" href="/style.css" />
 
  <!-- Viewport meta tag for responsiveness on mobile -->
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -22,9 +21,8 @@
   <!-- Font Awesome (Social Icons Font) - - -->
   <script src="https://kit.fontawesome.com/a6a167b666.js" crossorigin="anonymous"></script>
 
-
   <!-- my custom stylesheet -->
-  <link href="style.css" rel="stylesheet">
+  <link href="/style.css" rel="stylesheet">
 
 </head>
 
@@ -49,37 +47,52 @@
   </header>
 
 <!-- CONTENT GOES HERE -->
-<section>
-  <h1> Recent Posts </h1>
+<section class="padded">
+<h1> Recent Posts </h1>
 
 <div class="grid">
 
   
-    <div class="post-preview col-3">
-      <h3> Third Blog Post </h3>
-      <img src="website_placeholder_5" />
-      <p> Short description of third blog post </p>
-      <p>  </p>
-      <a href="/2020/06/11/third-blog-post.html"> Read More </a>
+
+  <a class="col-4_sm-6_xs-12 padded-1 post-loop-item" href="/2020/06/11/third-blog-post.html">
+    <div class="featured-bg-image" style="background-image:url(/images/website_placeholder_4.jpg)"> </div>
+    <div class="bg-dark post-info">
+        <div class="post-media">
+          <h3> Podcast </h3>
+        </div>
+        <div class="post-title">
+          <h2> Third Blog Post </h2>
+        </div>
     </div>
+  </a>
 
   
-    <div class="post-preview col-3">
-      <h3> Second Blog Post </h3>
-      <img src="website_placeholder_7" />
-      <p> Short description of second blog post </p>
-      <p>  </p>
-      <a href="/2020/06/10/second-blog-post.html"> Read More </a>
+
+  <a class="col-4_sm-6_xs-12 padded-1 post-loop-item" href="/2020/06/10/second-blog-post.html">
+    <div class="featured-bg-image" style="background-image:url(/images/website_placeholder_4.jpg)"> </div>
+    <div class="bg-dark post-info">
+        <div class="post-media">
+          <h3> Video </h3>
+        </div>
+        <div class="post-title">
+          <h2> Second Blog Post </h2>
+        </div>
     </div>
+  </a>
 
   
-    <div class="post-preview col-3">
-      <h3> First Blog Post </h3>
-      <img src="website_placeholder_2" />
-      <p> Short description of first blog post </p>
-      <p> Mark T </p>
-      <a href="/2020/06/09/first-blog-post.html"> Read More </a>
+
+  <a class="col-4_sm-6_xs-12 padded-1 post-loop-item" href="/2020/06/09/first-blog-post.html">
+    <div class="featured-bg-image" style="background-image:url(/images/website_placeholder_4.jpg)"> </div>
+    <div class="bg-dark post-info">
+        <div class="post-media">
+          <h3> Blog </h3>
+        </div>
+        <div class="post-title">
+          <h2> First Blog Post </h2>
+        </div>
     </div>
+  </a>
 
   
 

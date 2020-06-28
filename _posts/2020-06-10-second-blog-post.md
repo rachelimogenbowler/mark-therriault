@@ -1,8 +1,9 @@
 ---
-layout: default
+layout: post
 title: Second Blog Post
+media-type: Video
 description: Short description of second blog post
-featured-image: website_placeholder_7
+featured_image: /images/website_placeholder_4.jpg
 ---
 
 # Heading - My Second Post

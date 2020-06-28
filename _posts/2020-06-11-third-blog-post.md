@@ -1,8 +1,9 @@
 ---
-layout: default
+layout: post
 title: Third Blog Post
+media-type: Podcast
 description: Short description of third blog post
-featured-image: website_placeholder_5
+featured_image: /images/website_placeholder_4.jpg
 ---
 
 # Heading - My Third Post

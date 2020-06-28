@@ -1,8 +1,9 @@
 ---
 layout: post
 title: First Blog Post
+media-type: Blog
 description: Short description of first blog post
-featured-image: website_placeholder_2
+featured_image: /images/website_placeholder_4.jpg
 author: Mark T
 banner-heading: My First Post
 ---

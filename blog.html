@@ -4,19 +4,24 @@ title: Blog
 banner-heading: The Blog
 ---
 
-<section>
-  <h1> Recent Posts </h1>
+<section class="padded">
+<h1> Recent Posts </h1>
 
 <div class="grid">
 
-  {% for post in site.posts %}
-    <div class="post-preview col-3">
-      <h3> {{post.title}} </h3>
-      <img src="{{post.featured-image}}" />
-      <p> {{post.description}} </p>
-      <p> {{post.author}} </p>
-      <a href="{{post.url}}"> Read More </a>
+  {% for post in site.posts limit:12 %}
+
+  <a class="col-4_sm-6_xs-12 padded-1 post-loop-item" href="{{post.url}}">
+    <div class="featured-bg-image" style="background-image:url({{post.featured_image}})"> </div>
+    <div class="bg-dark post-info">
+        <div class="post-media">
+          <h3> {{post.media-type}} </h3>
+        </div>
+        <div class="post-title">
+          <h2> {{post.title}} </h2>
+        </div>
     </div>
+  </a>
 
   {% endfor %}
 
