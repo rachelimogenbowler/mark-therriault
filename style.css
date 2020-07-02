@@ -353,7 +353,7 @@ text-decoration: none;
   font-weight: normal;
 }
 
-.page-banner {
+.speaking-banner {
   background-image: url('images/website_placeholder_Speak1.jpg');
   min-height: 70vh;
   color: white;
@@ -403,6 +403,9 @@ form [class*=col-] {
   font-size: 1rem;
 }
 
+form .button {
+  width:100%;
+}
 
   @media(max-width:768px) {
    .email-signup input {
