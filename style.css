@@ -180,6 +180,7 @@ h3 {
 
 h4 {
   font-weight: 900;
+  text-transform: uppercase;
   margin-bottom: 2rem;
 }
 
@@ -326,6 +327,12 @@ text-decoration: none;
   text-transform: uppercase;
 }
 
+/*-------- Speaking Page Styling ------- */
+.big-icon {
+  font-size: 2rem;
+  margin-bottom: 1rem;
+}
+
 
 /* ------ BANNER -------- */
 
@@ -344,6 +351,12 @@ text-decoration: none;
 .banner h2 {
   font-size: 1.8rem;
   font-weight: normal;
+}
+
+.page-banner {
+  background-image: url('images/website_placeholder_Speak1.jpg');
+  min-height: 70vh;
+  color: white;
 }
 
 /* Contact Page Contact form */
