@@ -101,9 +101,11 @@ img {
 .fill-page-bg {
   min-height: 90vh;
 }
+
 .feature-section-bg {
   min-height: 70vh;
 }
+
 .sub-section-bg {
   min-height: 25rem;
 }
@@ -124,7 +126,23 @@ img {
   color: white;
 }
 
+.reverse-button {
+  text-decoration: none;
+  text-transform: uppercase;
+  padding: 1rem 3rem;
+  border: 1px solid;
+  color: white;
+  display: inline-block;
+  transition: all 0.5s;
+}
 
+.reverse-button:hover {
+  background-color: white;
+  opacity: 30%;
+  border-color: #262F39;
+  color: #262F39;
+  transition: all 0.5s;
+}
 
 .blog-feature-text {
   text-align: right;
@@ -162,7 +180,8 @@ h3 {
 
 h4 {
   font-weight: 900;
-  margin-bottom: 1rem;
+  text-transform: uppercase;
+  margin-bottom: 2rem;
 }
 
 p {
@@ -228,6 +247,10 @@ section {
   position: relative;
 }
 
+nav a {
+text-decoration: none;
+}
+
 .absolute-tag {
   position: absolute;
   bottom: -1rem;
@@ -269,6 +292,47 @@ section {
   width: 30%;
 }
 
+.blog-nav {
+  text-decoration: none;
+  color: white;
+  padding: 2%;
+  text-transform: uppercase;
+  font-weight: lighter;
+  text-align: center;
+}
+
+.blog-nav a:hover {
+  color: #909DA1;
+  text-decoration: none;
+}
+
+.blog-heading {
+  text-transform: uppercase;
+  line-height: 1.2;
+  text-align: center;
+  color:#3D4D54;
+}
+.page-banner: {
+  min-height: 15rem;
+}
+
+.page-banner h1 {
+  font-size: 4rem;
+  text-transform: uppercase;
+}
+
+.page-banner p {
+  font-size: 1.8rem;
+  font-weight: normal;
+  text-transform: uppercase;
+}
+
+/*-------- Speaking Page Styling ------- */
+.big-icon {
+  font-size: 2rem;
+  margin-bottom: 1rem;
+}
+
 
 /* ------ BANNER -------- */
 
@@ -287,6 +351,12 @@ section {
 .banner h2 {
   font-size: 1.8rem;
   font-weight: normal;
+}
+
+.speaking-banner {
+  background-image: url('images/website_placeholder_Speak1.jpg');
+  min-height: 70vh;
+  color: white;
 }
 
 /* Contact Page Contact form */
@@ -333,6 +403,9 @@ form [class*=col-] {
   font-size: 1rem;
 }
 
+form .button {
+  width:100%;
+}
 
   @media(max-width:768px) {
    .email-signup input {
