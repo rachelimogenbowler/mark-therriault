@@ -42,6 +42,11 @@ img {
   margin-bottom: 2rem;
 }
 
+.post-loop-margin {
+  margin-left: 5%;
+  margin-right: 5%;
+}
+
 .bg-light {
   background-color: #E6E6E6;
 }
@@ -295,7 +300,6 @@ text-decoration: none;
   color: white;
   padding: 2%;
   text-transform: uppercase;
-
 }
 
 .blog-nav a:hover {
@@ -308,6 +312,13 @@ text-decoration: none;
   line-height: 1.2;
   text-align: center;
   color:#3D4D54;
+}
+
+.post-bg-image {
+  background-size: cover;
+  background-position: center;
+  background-color: #909DA1;
+  padding-bottom: 100%;
 }
 
 /*---- SIDE BAR -----*/
