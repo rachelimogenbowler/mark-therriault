@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Second Blog Post
-media-type: Video
+category: Motivation
 description: Short description of second blog post
 featured_image: /images/website_placeholder_4.jpg
 ---

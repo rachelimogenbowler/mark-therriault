@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Third Blog Post
-media-type: Podcast
+category: Business
 description: Short description of third blog post
 featured_image: /images/website_placeholder_4.jpg
 ---

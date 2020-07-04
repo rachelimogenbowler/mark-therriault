@@ -278,17 +278,16 @@ text-decoration: none;
   min-height: 14rem;
 }
 
-.post-media {
+.post-category {
   text-transform: uppercase;
   color: #AC823A;
   font-weight: 700;
 }
 
-.post-title {
-    color: white;
-  }
 .post-title h2 {
   margin-bottom: 0;
+  font-size: 1.5rem;
+  color: white;
 }
 
 .main-body {
@@ -347,7 +346,6 @@ width: 100%;
 border-bottom: #3D4D54;
 }
 
-
 /*----- SPACER ----*/
 
 .page-banner {
@@ -371,7 +369,6 @@ border-bottom: #3D4D54;
   font-size: 2rem;
   margin-bottom: 1rem;
 }
-
 
 /* ------ BANNER -------- */
 
