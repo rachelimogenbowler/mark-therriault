@@ -63,7 +63,7 @@ img {
 .bg-image {
   background-size: cover;
   background-position: center;
-  background-color: #BEB1A4;
+  background-color: #909DA1;
 }
 
 .text-light {
@@ -320,6 +320,46 @@ text-decoration: none;
   padding-bottom: 100%;
 }
 
+/*----- BLOCKS STYLING -----*/
+
+.p-statement {
+  font-size: 1.5rem;
+  font-weight: bold;
+  margin-bottom: 2rem;
+  line-height: 1.4;
+}
+
+.post-intro-image {
+  background-size: cover;
+  background-position: center;
+  background-color: #909DA1;
+  max-width: 100%;
+  }
+
+  .pod-image {
+      background: url(images/website_placeholder_3.jpg) 50% 50% no-repeat;
+      width: 700px;
+      height: 700px;
+    }
+
+    /* Responsive video */
+    .embed-container {
+      position: relative;
+      padding-bottom: 56.25%;
+      height: 0;
+      overflow: hidden;
+      max-width: 100%;
+    }
+
+    .embed-container iframe,
+    .embed-container object,
+    .embed-container embed {
+      position: absolute;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+    }
 /*---- SIDE BAR -----*/
 
 .sidebar {
