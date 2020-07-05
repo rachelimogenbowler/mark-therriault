@@ -4,3 +4,33 @@ categories:
 - Business
 - Podcast
 - Video
+
+page_blocks: []
+_array_structures:
+  page_blocks:
+    - label: Blog Intro
+      icon: edit
+      value:
+        - _id: blog-intro
+        background image: /images/website_placeholder_5.jpg
+        statement-paragraph: This is styled text to make a statement when you open your bog post to encourage people to read further, and make sure they know this is a written blog post
+        regular-paragraph: continuing blog post to transition into main bog post body aksndl mlam p'ejw ofewno;f no;k mopqwkmp mq pw mowempoewkm   f'p  w mewop kneown onewon welkm ldkmwel  kj e rpkemw pekmfpw...
+
+    - label: Podcast
+      icon: mic
+      value:
+        - _id: podcast
+          background image: /images/website-placeholder_3.jpg
+          subheading: Podcast
+          heading: Listen To This Episode On
+          link-text-1: Apple
+          link_url_1: https://apps.apple.com/us/app/apple-podcasts/id525463029
+          link-text-2: Spotify
+          link_url_2: https://open.spotify.com/genre/podcasts-page
+          podcast-info: On this episode of podcast name we spoke with ooj woedj owe about aosj doio jeo joewj owjefo nweo OEFJ Owej noewnoin ONVOWENFOWEO OWJEF OIWEJFOIWEJ OWI EJ, and so much more...
+
+    - label: Video
+      icon: live_tv
+      value:
+        - _id: video
+        embed-video: https://www.youtube.com/embed/jG7dSXcfVqE
