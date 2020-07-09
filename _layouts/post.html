@@ -8,6 +8,15 @@ layout: default
   <div class="col-12-middle"> </div>
 </section>
 
+<!--- “Tell your page template to use those blocks --->
+<section>
+{% for block in page.page_blocks %}
+
+  {% include blocks/{{block._id}}.html block=block %}
+
+{% endfor %}
+</section>
+
 <section class="grid">
 
   <div class="col-8_sm-12 main-body padded">
