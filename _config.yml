@@ -11,7 +11,7 @@ _array_structures:
     - label: Blog Intro
       icon: edit
       value:
-        - _id: blog-intro
+      -   _id: blog-intro
         background image: /images/website_placeholder_5.jpg
         statement-paragraph: This is styled text to make a statement when you open your bog post to encourage people to read further, and make sure they know this is a written blog post
         regular-paragraph: continuing blog post to transition into main bog post body aksndl mlam p'ejw ofewno;f no;k mopqwkmp mq pw mowempoewkm   f'p  w mewop kneown onewon welkm ldkmwel  kj e rpkemw pekmfpw...
