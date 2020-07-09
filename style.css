@@ -196,6 +196,13 @@ p {
   margin-bottom: 2rem;
   line-height: 1.4;
 }
+a {
+  text-decoration: none;
+  color: inherit;
+}
+.main-body h1  {
+text-align: center;
+}
 
 /* HEADER & FOOTER */
 header {
@@ -207,8 +214,6 @@ header {
 }
 
 header a {
-  text-decoration: none;
-  color: inherit;
   padding: 0.5rem;
   text-transform: uppercase;
 }
@@ -360,6 +365,12 @@ text-decoration: none;
       width: 100%;
       height: 100%;
     }
+
+.max-width {
+  max-width: 1000px;
+  margin: auto;
+}
+
 /*---- SIDE BAR -----*/
 
 .sidebar {
@@ -436,6 +447,7 @@ border-bottom: #3D4D54;
 }
 
 /* Contact Page Contact form */
+
 input, textarea {
   border-style: solid;
   border: 2px solid rgb(200, 200, 205);
@@ -444,6 +456,7 @@ input, textarea {
   width: 100%;
   font-size: 1rem;
   vertical-align: top;
+  font-family: 'Montserrat', sans-serif;
 }
 
 input:focus,
@@ -458,7 +471,6 @@ textarea {
 }
 
 input[type="submit"] {
-  width: auto;
   display: block;
 }
 

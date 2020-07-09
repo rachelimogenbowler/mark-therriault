@@ -32,9 +32,14 @@ banner-heading: The Blog
 
   <a class="col-4_sm-6_xs-12 padded-1 post-loop-item" href="{{post.url}}">
     <div class="post-bg-image" style="background-image:url({{post.featured_image}})"> </div>
+
     <div class="bg-dark post-info">
         <div class="post-category">
-          <h3> {{post.category}} </h3>
+        <h3> <a href="/category/{{ post.category | slugify }}/" class="tag">
+          {{ post.category | replace: "-", " " }}
+        </a>
+        </h3>
+
 
         </div>
         <div class="post-title">
