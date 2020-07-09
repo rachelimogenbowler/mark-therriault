@@ -4,6 +4,7 @@ title: Third Blog Post
 category: Business
 description: Short description of third blog post
 featured_image: /images/website_placeholder_4.jpg
+page_blocks:
 ---
 
 # Heading - My Third Post

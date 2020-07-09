@@ -6,6 +6,7 @@ description: Short description of first blog post
 featured_image: /images/website_placeholder_4.jpg
 author: Mark T
 banner-heading: My First Post
+page_blocks:
 ---
 
 # Heading - My First Post
