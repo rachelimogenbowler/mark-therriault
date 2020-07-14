@@ -202,6 +202,8 @@ a {
 }
 .main-body h1  {
 text-align: center;
+font-size: 3rem;
+margin-bottom: 2.5rem;
 }
 
 /* HEADER & FOOTER */
@@ -250,6 +252,13 @@ footer .fab {
 }
 footer h2 {
   text-transform: uppercase;
+  font-size: 1rem;
+  color: white;
+  margin: 1.5rem;
+  margin-bottom: 1rem;
+}
+
+footer p {
   font-size: 1rem;
   color: white;
   margin: 1.5rem;
@@ -380,7 +389,6 @@ text-decoration: none;
 .sidebar > div {
   margin-bottom: 1rem;
   padding: 2rem;
-  background-color: #909DA1;
 }
 
 .sidebar nav a {
