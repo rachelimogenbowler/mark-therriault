@@ -5,13 +5,13 @@ category: Motivation
 description: Short description of second blog post
 featured_image: /images/website_placeholder_4.jpg
 page_blocks:
-  - - _id: blog-intro
-      background-image_path: /images/website_placeholder_5.jpg
-      statement-paragraph: >-
+  - _id: blog-intro
+    background-image_path: /images/website_placeholder_5.jpg
+    statement-paragraph: >-
         TEST TEST This is styled text to make a statement when you open your bog
         post to encourage people to read further, and make sure they know this
         is a written blog post
-      regular-paragraph: >-
+    regular-paragraph: >-
         TEST TESTcontinuing blog post to transition into main bog post body
         aksndl mlam p'ejw ofewno;f no;k mopqwkmp mq pw mowempoewkm   f'p  w
         mewop kneown onewon welkm ldkmwel  kj e rpkemw pekmfpw...

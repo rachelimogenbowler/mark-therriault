@@ -11,11 +11,11 @@ layout: default
 <!---!ªµÏ\ÜTell your page template to use those blocks --->
 
 <section>
-{% for block in page.page_blocks %}
+  {% for block in page.page_blocks %}
 
-  {% include blocks/{{block._id}}.html block=block %}
+    {% include blocks/{{block._id}}.html block=block %}
 
-{% endfor %}
+  {% endfor %}
 </section>
 
 <section class="grid">
