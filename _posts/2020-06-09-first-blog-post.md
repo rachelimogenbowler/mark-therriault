@@ -1,7 +1,9 @@
 ---
 layout: post
 title: First Blog Post
-category: Travel
+categories:
+  - Travel
+  - Video
 description: Short description of first blog post
 featured_image: /images/website_placeholder_4.jpg
 author: Mark T

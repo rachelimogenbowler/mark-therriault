@@ -82,14 +82,14 @@ img {
   background-size: cover;
   background-position: center;
   background-color: #909DA1;
-  min-height: 40rem;
+  padding-bottom: 125%;
 }
 
 .blog-hero-bg-image {
   background-size: cover;
   background-position: center;
   background-color: #909DA1;
-  min-height: 40rem;
+  min-height: 50vh;
 }
 
 .hub-subheading {
@@ -284,6 +284,23 @@ text-decoration: none;
   text-decoration: none;
 }
 
+/* This targets the image when you hover  */
+.post-loop-item:hover  {
+  opacity: 0.8;
+  transition: 0.5s;
+}
+
+
+.post-loop-item:hover .featured-bg-image {
+  /* Add styles here to target specifically the background image on hover  */
+}
+
+.post-loop-item:hover .post-info {
+    /* Add styles here to target specifically the text section on hover  */
+}
+
+
+
 .post-info {
   margin-left: 1rem;
   margin-right: 1rem;
@@ -387,8 +404,7 @@ text-decoration: none;
 }
 
 .sidebar > div {
-  margin-bottom: 1rem;
-  padding: 2rem;
+  padding: 2rem 0;
 }
 
 .sidebar nav a {
@@ -398,11 +414,13 @@ text-decoration: none;
   text-decoration: none;
 }
 
-.sidebar-line {
-border-style: solid;
-border-width: medium;
-width: 100%;
-border-bottom: #3D4D54;
+/* TODO */
+.sidebar nav a:hover {
+  color: red;
+}
+
+.border-bottom {
+  border-bottom: 2px solid #3D4D54;
 }
 
 /*----- SPACER ----*/
@@ -456,6 +474,15 @@ border-bottom: #3D4D54;
 
 /* Contact Page Contact form */
 
+form [class*=col] {
+  padding: 5px; /* This gets rid of default padding from columns inside the form */
+}
+
+.capped-width {
+  max-width: 900px;
+  margin: auto;
+}
+
 input, textarea {
   border-style: solid;
   border: 2px solid rgb(200, 200, 205);
@@ -480,12 +507,11 @@ textarea {
 
 input[type="submit"] {
   display: block;
+  background: none;
+  border: 2px solid rgb(200, 200, 205);
 }
 
-form [class*=col-] {
-  padding: 5px;
-}
-
+/*
 .email-signup input {
   width: 30%;
   display: inline-block;
@@ -508,14 +534,6 @@ form [class*=col-] {
      width: 100%;
      max-width: 100%;
    }
- }
+ } */
 
 /* Media Queries */
-
-@media {
-
-banner h1 {
- font-size: 1rem;
-   }
-
-}

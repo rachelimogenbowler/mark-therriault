@@ -2,10 +2,13 @@
 layout: default
 title: Mark Therriault | Leave Your Mark
 posts:
+intro_banner_image: /images/website_placeholder_7.jpg
+about_image: /images/website_placeholder_6.jpg
+hub_image: /images/website_placeholder_2.jpg
 ---
 
   <!-- MAIN INTRO BANNER SECTION -->
-  <section class="banner bg-image padded center grid editable">
+  <section class="banner bg-image padded center grid editable" style="background-image:url({{page.intro_banner_image}})">
     <div class="col-12-middle">
       <h1> Mark Therriault </h1>
       <h2> Leave Your Mark </h2>
@@ -15,7 +18,8 @@ posts:
   <!-- INTRO/ CLICK THROUGH TO STORY SECTION -->
   <section>
   <div class="grid padded mob-flip">
-    <div class="col-5_sm-12 about-hero-bg-image editable" style="background-image:url(images/website_placeholder_6.jpg)">
+    <div class="col-5_sm-12-middle">
+      <div class="about-hero-bg-image editable" style="background-image:url({{page.about_image}})"></div>
     </div>
     <div class="col-7_sm-12-middle padded">
       <h2 class="text-alt editable"> My Story </h2>
@@ -34,7 +38,7 @@ posts:
       <p class="editable"> This is where I share fresh off the press tips and tricks to help you! The hub is a collective of teachings through blog posts, videos and podcasts. Or something that sounds a bit better than that </p>
       <a class="button" href="/blog"> Read More </a>
     </div>
-    <div class="col-6_sm-12 blog-hero-bg-image editable" style="background-image:url(images/website_placeholder_2.jpg)">
+    <div class="col-6_sm-12 blog-hero-bg-image editable" style="background-image:url({{page.hub_image}})">
     </div>
   </div>
 </section>
