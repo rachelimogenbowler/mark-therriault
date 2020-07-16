@@ -262,10 +262,10 @@ footer h2 {
   margin-bottom: 4rem;
 }
 
-footer p {
+footer p a {
   font-size: 0.9rem;
   color: white;
-  margin: 1.5rem;
+  margin-bottom: 0;
 }
 
 section {
@@ -310,18 +310,19 @@ text-decoration: none;
   margin-right: 1rem;
   margin-top: -3rem;
   padding: 1rem;
-  min-height: 14rem;
+  min-height: 11rem;
 }
 
 .post-category {
   text-transform: uppercase;
   color: #AC823A;
   font-weight: 700;
+  font-size: 0.9rem;
 }
 
 .post-title h2 {
   margin-bottom: 0;
-  font-size: 1.5rem;
+  font-size: 1.2rem;
   color: white;
 }
 
