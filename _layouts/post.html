@@ -24,6 +24,26 @@ style="background-image:url({{page.intro_banner_image}})">
 
   <div class="col-8_sm-12 main-body padded">
     {{content}}
+
+  <!---- social sharing and post buttons --->
+  <div class="social-share">
+
+          <hr />
+
+          <h4> Did you enoy this post? Share it on ... </h4>
+          <nav>
+              <a href="https://twitter.com/intent/tweet?text={{ page.title }}&url={{ site.url }}{{ page.url }}&via={{ site.twitter_username }}&related={{ site.twitter_username }}" rel="nofollow" target="_blank" title="Share on Twitter">
+                  <i class="fab fa-twitter"></i>Twitter
+              </a>
+              <a href="https://facebook.com/sharer.php?u={{ site.url }}{{ page.url }}" rel="nofollow" target="_blank" title="Share on Facebook">
+                  <i class="fab fa-facebook"></i>Facebook
+              </a>
+          </nav>
+
+        </div>
+
+        <hr />
+
       <div class="prev-next center">
             {% if page.previous.url %}
               <a class="prev" href="{{page.previous.url}}">&laquo;<span> {{page.previous.title}}</span></a>

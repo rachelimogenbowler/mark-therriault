@@ -354,6 +354,10 @@ text-decoration: none;
   padding-bottom: 100%;
 }
 
+.social-share {
+  color:#909DA1;
+}
+
 .prev-next a {
     padding: 1rem;
     text-transform: uppercase;
@@ -515,7 +519,7 @@ input, textarea {
 input:focus,
 textarea:focus {
   outline: none;
-  border: 2px solid #e67e22;
+  border: 2px solid #3D4D54;
   /* featured color */
 }
 
