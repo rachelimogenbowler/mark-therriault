@@ -29,8 +29,8 @@ banner-heading: The Blog
 <div class="grid post-loop-margin">
 
   {% for post in site.posts limit:12 %}
-  <div class="col-4_sm-6_xs-12">
-  <a class="padded-1 post-loop-item" href="{{post.url}}">
+  <div class="col-4_sm-6_xs-12 padded-1">
+  <a class=" post-loop-item" href="{{post.url}}">
     <div class="post-bg-image" style="background-image:url('{{post.featured_image}}')"> </div>
   </a>
     <div class="bg-dark post-info">
