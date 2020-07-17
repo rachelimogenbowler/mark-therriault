@@ -35,9 +35,12 @@ banner-heading: The Blog
   </a>
     <div class="bg-dark post-info">
         <div class="post-category">
-        <h3> <a href="/category/{{ post.category | slugify }}" class="tag">
-          {{ post.category | replace: "-", " " }}
-        </a>
+        <h3>
+          {% for category in post.categories %}
+            <a href="/category/{{ category | slugify }}" class="tag">
+            {{ category | replace: "-", " " }}
+            </a>
+          {% endfor %}
         </h3>
 
         </div>
