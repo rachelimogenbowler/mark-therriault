@@ -4,6 +4,9 @@ title: Third Blog Post
 category: Business
 description: Short description of third blog post
 featured_image: /images/website_placeholder_4.jpg
+intro_banner_image: /images/website_placeholder_4.jpg
+banner-overlay_color: rgba(0,0,0,0.8);
+banner-text_color: red
 page_blocks:
 ---
 

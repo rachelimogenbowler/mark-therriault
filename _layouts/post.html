@@ -5,9 +5,14 @@ intro_banner_image: /images/website_placeholder_7.jpg
 
 <!--  Post Feature Image  -->
 
-<section class="banner sub-section bg-image padded center grid editable"
+<section class="banner sub-section bg-image center grid editable"
 style="background-image:url({{page.intro_banner_image}})">
-  <div class="col-12-middle"> </div>
+  <div class="col-12 overlay grid padded" style="background-color:{{page.banner-overlay_color}}">
+    <div class="col-12-middle">
+      <h1 style="color:{{page.banner-text_color}}">{{page.title}}</h1>
+     </div>
+  </div>
+
 </section>
 
 <!--- Tell your page template to use those blocks --->

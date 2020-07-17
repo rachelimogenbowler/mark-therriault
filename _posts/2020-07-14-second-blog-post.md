@@ -4,6 +4,7 @@ title: Second Blog Post
 category: Motivation
 description: Short description of second blog post
 featured_image: /images/website_placeholder_4.jpg
+intro_banner_image: /images/website_placeholder_4.jpg
 page_blocks:
   - _id: blog-intro
     background-image_path: /images/website_placeholder_5.jpg
