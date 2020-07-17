@@ -140,7 +140,7 @@ img {
 
 .button:hover {
   background-color: #262F39;
-  border-color: rgb(60,60,60);
+  border-color: #262F39;
   color: white;
 }
 
@@ -270,10 +270,10 @@ footer h2 {
   margin-bottom: 4rem;
 }
 
-footer p {
+footer p a {
   font-size: 0.9rem;
   color: white;
-  margin: 1.5rem;
+  margin-bottom: 0;
 }
 
 section {
@@ -311,25 +311,24 @@ text-decoration: none;
     /* Add styles here to target specifically the text section on hover  */
 }
 
-
-
 .post-info {
   margin-left: 1rem;
   margin-right: 1rem;
   margin-top: -3rem;
   padding: 1rem;
-  min-height: 14rem;
+  min-height: 11rem;
 }
 
 .post-category {
   text-transform: uppercase;
   color: #AC823A;
   font-weight: 700;
+  font-size: 0.9rem;
 }
 
 .post-title h2 {
   margin-bottom: 0;
-  font-size: 1.5rem;
+  font-size: 1.2rem;
   color: white;
 }
 
@@ -361,6 +360,26 @@ text-decoration: none;
   background-position: center;
   background-color: #909DA1;
   padding-bottom: 100%;
+}
+
+.social-share {
+  color:#909DA1;
+}
+
+.prev-next a {
+    padding: 1rem;
+    text-transform: uppercase;
+    color: #262F39;
+    margin-top: 1rem;
+    display: inline-block;
+    border: 1px solid;
+    margin: 1rem;
+}
+
+.prev-next a:hover {
+  background-color: #262F39;
+  border-color: #262F39;
+  color: white;
 }
 
 /*----- BLOCKS STYLING -----*/
@@ -508,7 +527,7 @@ input, textarea {
 input:focus,
 textarea:focus {
   outline: none;
-  border: 2px solid #e67e22;
+  border: 2px solid #3D4D54;
   /* featured color */
 }
 
