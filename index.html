@@ -4,9 +4,6 @@ title: Mark Therriault | Leave Your Mark
 intro_banner_image: /images/website_placeholder_7.jpg
 about_image: /images/website_placeholder_6.jpg
 hub_image: /images/website_placeholder_2.jpg
-pagination:
-  enabled: true
-  per_page: 3
 ---
 
   <!-- MAIN INTRO BANNER SECTION -->
@@ -56,7 +53,7 @@ pagination:
   </div>
 
 
-  {% for post in paginator.posts %}
+  {% for post in site.post limit: 6 %}
 <div class="col-4_sm-12 padded-1">
   <a class="post-loop-item" href="{{post.url}}">
   <div class="featured-bg-image" style="background-image:url({{post.featured_image}})"> </div>

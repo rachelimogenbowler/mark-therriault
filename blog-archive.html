@@ -1,14 +1,16 @@
 ---
 layout: default
-title: Blog | Mark Therriault
-banner-heading: The Blog
+title: Blog Archive | Mark Therriault
+banner-heading: The Blog Archive
+pagination:
+  enabled: true
 ---
 
 
 <!--  Blog Banner  -->
 <section class="center sub-section-bg bg-mid grid-center page-banner">
   <div class="col-8_sm-12-middle">
-  <h1 class="editable"> The Blog </h1>
+  <h1 class="editable"> The Blog Archive </h1>
 </div>
 </section>
 
@@ -24,54 +26,45 @@ banner-heading: The Blog
 
 </section>
 
-<p> CONTENT </p>
 
 <!--- Taken from my website blog archive code --->
 
 <section class="grid">
 
-    {% for post in site.posts limit:40 %}
+    {% for post in paginator.posts %}
 
-    {% if post.published == true %}
+    <div class="col-4_sm-6_xs-12">
+    <a class="padded-1 post-loop-item" href="{{post.url}}">
+      <div class="post-bg-image" style="background-image:url('{{post.featured_image}}')"> </div>
+    </a>
+      <div class="bg-dark post-info">
+          <div class="post-category">
+          <h3> <a href="/category/{{ post.category | slugify }}" class="tag">
+            {{ post.category | replace: "-", " " }}
+          </a>
+          </h3>
 
-      {% include post-item-small.html %}
+          </div>
+          <div class="post-title">
+          <a href="{{post.url}}">
+            <h2> {{post.title}} </h2>
+          </a>
+          </div>
+      </div>
+    </div>
 
-    {% endif %}
 
     {% endfor %}
 
-</section>
 
-
-
-<!--- Taken from Blog Page code --->
-
-<section class="padded blog-heading">
-
-<div class="grid post-loop-margin">
-
-  {% for post in site.posts limit:12 %}
-  <div class="col-4_sm-6_xs-12">
-  <a class="padded-1 post-loop-item" href="{{post.url}}">
-    <div class="post-bg-image" style="background-image:url('{{post.featured_image}}')"> </div>
-  </a>
-    <div class="bg-dark post-info">
-        <div class="post-category">
-        <h3> <a href="/category/{{ post.category | slugify }}" class="tag">
-          {{ post.category | replace: "-", " " }}
-        </a>
-        </h3>
-
-        </div>
-        <div class="post-title">
-        <a href="{{post.url}}">
-          <h2> {{post.title}} </h2>
-        </a>
-        </div>
+    {% if paginator.total_pages > 1 %}
+    <div class="center col-12 padded">
+      {% if paginator.previous_page %}
+        <a class="button" href="{{ paginator.previous_page_path | prepend: site.baseurl }}">Newer</a>
+      {% endif %}
+      {% if paginator.next_page %}
+        <a class="button" href="{{ paginator.next_page_path | prepend: site.baseurl }}">Older</a>
+      {% endif %}
     </div>
-  </div>
-  {% endfor %}
-
-</div>
-
+    {% endif %}
 </section>

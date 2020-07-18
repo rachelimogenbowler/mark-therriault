@@ -56,7 +56,7 @@ pagination:
   collection: 'posts'
 
   # How many objects per paginated page, used to be `paginate` (default: 0, means all)
-  per_page: 10
+  per_page: 12
 
   # The permalink structure for the paginated pages (this can be any level deep)
   permalink: '/page/:num/' # Pages are index.html inside this folder (default)
@@ -97,7 +97,7 @@ pagination:
 
   # Optional, the default name of the index file for generated pages (e.g. 'index.html')
   # Without file extension
-  indexpage: 'index'
+  indexpage: 'blog-archive.html'
 
 ############################################################
 
@@ -149,4 +149,4 @@ _array_structures:
       icon: live_tv
       value:
         _id: video
-        embed-video_html: Add your embed code here. 
+        embed-video_html: Add your embed code here.
