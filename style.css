@@ -64,6 +64,10 @@ img {
   margin-right: 5%;
 }
 
+.bg-fixed {
+  background-attachment: fixed;
+}
+
 .bg-light {
   background-color: #E6E6E6;
 }
@@ -617,6 +621,10 @@ input[type="submit"] {
 
 
 @media (max-width:850px){
+
+  .bg-fixed {
+    background-attachment: scroll;
+  }
 
   .mob-show {
     display: block;
