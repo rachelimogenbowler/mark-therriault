@@ -43,7 +43,11 @@ FORMATTED?? goierqovmreiovm
 
 <div>&nbsp;</div>
 
-NORMAL PARAGRAPH owiejfoweijfoweijfo*&nbsp;<u><strong>indijniewjni</strong></u> ni*
+NORMAL PARAGRAPH **this shoulld be bold**&nbsp;<u>this shoulld be underlined</u>&nbsp;*this shoulld be itallic*&nbsp;***<u>this shoulld be alll of those</u>***&nbsp;ijfoweijfo*&nbsp;*indijniewjni *ni*
+
+[this is an outward link to my website handwritten](www.rachelbowler.com){: target="_blank"}
+
+[this is an outward link to my website copied from url](https://rachelbowler.com/){: target="_blank"}
 
 1. *JNDIFWFO OME&nbsp; ofeoewj oijfeiwjfowekmfoewfnw*
 
