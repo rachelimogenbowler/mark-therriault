@@ -11,7 +11,7 @@ author: Mark T
 banner-heading: My First Post
 page_blocks:
   - _id: blog-intro
-    background-image_path: /images/website_placeholder_5.jpg
+    background-image_path: /images/website_placeholder_3.jpg
     statement-paragraph: >-
       Block intro block test This is styled text to make a statement when you
       open your bog post to encourage people to read further, and make sure they
