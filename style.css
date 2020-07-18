@@ -523,7 +523,7 @@ text-decoration: none;
 /* ------ BANNER -------- */
 
 .banner {
-  background-image: url('images/website_placeholder_7.jpg');
+  background-image: url('/images/website_placeholder_7.jpg');
   min-height: 70vh;
   color: white;
 }
@@ -540,7 +540,7 @@ text-decoration: none;
 }
 
 .speaking-banner {
-  background-image: url('images/website_placeholder_Speak1.jpg');
+  background-image: url('/images/website_placeholder_Speak1.jpg');
   min-height: 70vh;
   color: white;
 }

@@ -2,10 +2,29 @@
 layout: default
 ---
 
-<section class="padded">
-  <h2 class="center"> {{page.title}} </h2>
+<!--  Blog Banner  -->
+<section class="center sub-section-bg bg-mid grid-center page-banner">
+  <div class="col-8_sm-12-middle">
+  <h1 class="editable"> The Blog </h1>
+</div>
+</section>
 
-<div class="grid">
+<!-- BLOG CATEGORY MENU -->
+<section class="grid bg-dark">
+
+  <nav class="col-12_sm12-middle blog-nav center padded-1">
+    <a href="/blog"> All </a>
+    <a href="/category/travel"> Travel </a>
+    <a href="/category/motivation"> Motivation </a>
+    <a href="/category/business"> Business </a>
+  </nav>
+
+</section>
+
+<section class="padded">
+
+
+<div class="grid blog-heading">
 
 {% for post in paginator.posts %}
 
@@ -38,17 +57,13 @@ layout: default
 
 
 {% if paginator.total_pages > 1 %}
-<ul class="grid-spaceAround">
+<div class="center col-12 padded">
   {% if paginator.previous_page %}
-  <li>
-    <a href="{{ paginator.previous_page_path | prepend: site.baseurl }}">Newer</a>
-  </li>
+    <a class="button" href="{{ paginator.previous_page_path | prepend: site.baseurl }}">Newer</a>
   {% endif %}
   {% if paginator.next_page %}
-  <li>
-    <a href="{{ paginator.next_page_path | prepend: site.baseurl }}">Older</a>
-  </li>
+    <a class="button" href="{{ paginator.next_page_path | prepend: site.baseurl }}">Older</a>
   {% endif %}
-</ul>
+</div>
 {% endif %}
 </section>
