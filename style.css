@@ -79,6 +79,14 @@ img {
   background-color: #909DA1;
 }
 
+.bg-tall {
+  padding-bottom: 125%
+}
+
+.bg-square {
+  padding-bottom: 100%;
+}
+
 .text-light {
   color: white;
 }
@@ -607,7 +615,8 @@ h2{font-size: 5vw;}
 .banner h2 {font-size: 7vw;}
 
 .about-hero-bg-image,
-.blog-hero-bg-image {
+.blog-hero-bg-image,
+.bg-m-square {
   padding-bottom: 100%
 }
 
