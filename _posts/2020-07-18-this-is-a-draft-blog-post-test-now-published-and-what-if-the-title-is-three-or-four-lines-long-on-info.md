@@ -1,13 +1,13 @@
 ---
 layout: post
-title: "this is a draft\_blog post test now published and what if the title is three or four lines long?"
+title: "this is a draft\_blog post test now published and what if the title is three or four lines long on info?"
 categories:
   - Travel
 description: "this is a draft\_blog post test"
 featured_image: /images/website_placeholder_4.jpg
 intro_banner_image: /images/website_placeholder_4.jpg
 author: Mark T
-banner-heading: "this is a draft\_blog post test"
+banner-heading: "this is a draft\_blog post test now published and what if the title is three or four lines long in the banner?"
 page_blocks:
   - _id: podcast
     podcast_image: /images/website_placeholder_4.jpg
