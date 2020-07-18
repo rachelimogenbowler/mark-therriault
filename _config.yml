@@ -10,6 +10,8 @@ plugins:
   - jekyll-paginate-v2
 
 _options:
+  embed-video_html: 
+    embed: true
   content:
     styles: /editor.css
     embed: true
@@ -17,6 +19,27 @@ _options:
     center: align-center
     right: align-right
     justify: full-width-text
+    blockquote: true
+    horizontalrule: true
+    format: p h1 h2 h3 h4 h5 h6 pre address div
+    bold: true
+    italic: true
+    numberedlist: true
+    code: true
+    table: true
+    right: align-to-right
+    center: align-to-center
+    left: align-to-left
+    embed: true
+    link: true
+    undo: true
+    redo: true
+    underline: true
+    strike: true
+    subscript: true
+    superscript: true
+    image: true
+    bulletedlist: true
 
 ############################################################
 # Site configuration for the Jekyll 3 Pagination Gem
