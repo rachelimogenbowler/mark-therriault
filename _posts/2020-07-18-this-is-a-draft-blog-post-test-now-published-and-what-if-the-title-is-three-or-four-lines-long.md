@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "this is a draft\_blog post test now published"
+title: "this is a draft\_blog post test now published and what if the title is three or four lines long?"
 categories:
   - Travel
 description: "this is a draft\_blog post test"
