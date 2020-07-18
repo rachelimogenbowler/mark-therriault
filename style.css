@@ -52,6 +52,10 @@ img {
 }
 
 .margin-bottom-1 {
+  margin-bottom: 1rem;
+}
+
+.margin-bottom-2 {
   margin-bottom: 2rem;
 }
 
@@ -278,10 +282,17 @@ footer h2 {
   margin-bottom: 4rem;
 }
 
+footer p {
+  margin-bottom: 0;
+}
+
 footer p a {
   font-size: 0.9rem;
   color: white;
-  margin-bottom: 0;
+}
+
+footer a span {
+  padding: 0.5rem;
 }
 
 section {
@@ -372,7 +383,26 @@ text-decoration: none;
 }
 
 .social-share {
+  padding: 2rem 0;
+  margin-bottom: 1rem;
   color:#909DA1;
+  border-top: 2px solid #3D4D54;
+  border-bottom: 2px solid #3D4D54;
+}
+
+.social-share h4 {
+  margin-bottom: 1rem;
+  color: #3D4D54;
+}
+
+.social-share a {
+  padding: 1rem;
+  padding-left: 0;
+  display: inline-block;
+}
+
+.social-share .fab {
+  margin-right: 0.5rem;
 }
 
 .prev-next a {

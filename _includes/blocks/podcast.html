@@ -1,20 +1,15 @@
+<section class="grid padded mob-flip bg-light">
 
-<section>
-<div class="grid padded mob-flip bg-light">
-  <div class="col-6_sm-12-middle"
-    <div class="post-intro-image pod-image" style="background-image:url{{block.podcast-image}}"></div>
+  <div class="col-6_sm-12-middle">
+    <div class="bg-image bg-square" style="background-image:url({{block.podcast_image}})"></div>
   </div>
-  <div class="col-6_sm-12-middle padded center">
-    <h3> {{block.sub-heading}} </h3>
-    <h2 class="text-alt"> {{block.heading}} </h2>
 
   <div class="col-6_sm-12-middle padded">
-    <a class="button" href="{{block.link_url_1}}"> {{block.link-text-1}} </a>
-    <a class="button" href="{{block.link_urll_2}}"> {{block.link-text-2}} </a>
+    <h3> {{block.sub-heading}} </h3>
+    <h2 class="text-alt"> {{block.heading}} </h2>
+    <a class="button margin-bottom-1" href="{{block.link_url_1}}"> {{block.link-text-1}} </a>
+    <a class="button margin-bottom-1" href="{{block.link_urll_2}}"> {{block.link-text-2}} </a>
+    <p> {{block.podcast-info}}</p>
   </div>
 
-    <p class="padded-1"> {{block.podcast-info}}
-    </p>
-  </div>
-</div>
 </section>

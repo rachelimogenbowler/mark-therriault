@@ -12,6 +12,11 @@ plugins:
 _options:
   content:
     styles: /editor.css
+    embed: true
+    left: align-left
+    center: align-center
+    right: align-right
+    justify: full-width-text
 
 ############################################################
 # Site configuration for the Jekyll 3 Pagination Gem
@@ -108,7 +113,7 @@ _array_structures:
       icon: mic
       value:
         _id: podcast
-        background image: /images/website-placeholder_3.jpg
+        podcast_image: /images/website-placeholder_3.jpg
         subheading: Podcast
         heading: Listen To This Episode On
         link-text-1: Apple
