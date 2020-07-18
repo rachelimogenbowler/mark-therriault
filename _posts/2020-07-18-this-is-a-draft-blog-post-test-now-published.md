@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "this is a draft\_blog post test"
+title: "this is a draft\_blog post test now published"
 categories:
   - Travel
 description: "this is a draft\_blog post test"
@@ -31,4 +31,4 @@ page_blocks:
       allowfullscreen=""></iframe></div><p>&nbsp;</p>
 ---
 
-this is a draft blog post test
+this is a draft blog post test now pubished
