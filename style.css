@@ -51,6 +51,10 @@ img {
   margin-right: 5%;
 }
 
+.padded-footer {
+padding: 4%;
+}
+
 .margin-bottom-1 {
   margin-bottom: 1rem;
 }
@@ -294,6 +298,7 @@ footer p a {
   font-size: 0.9rem;
   color: white;
 }
+Footer nav a:hover { color: white }
 
 footer a span {
   padding: 0.5rem;
