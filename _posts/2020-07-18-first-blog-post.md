@@ -22,6 +22,14 @@ page_blocks:
       On this episode of podcast name we spoke with ooj woedj owe about aosj
       doio jeo joewj owjefo nweo OEFJ Owej noewnoin ONVOWENFOWEO OWJEF
       OIWEJFOIWEJ OWI EJ, and so much more...
+  - _id: video
+    embed-video_html: >-
+      <div class="cms-embed"
+      data-cms-embed="PGlmcmFtZSB3aWR0aD0iNTYwIiBoZWlnaHQ9IjMxNSIgc3JjPSJodHRwczovL3d3dy55b3V0dWJlLmNvbS9lbWJlZC95aU9SY0JRZ2hJayIgZnJhbWVib3JkZXI9IjAiIGFsbG93PSJhY2NlbGVyb21ldGVyOyBhdXRvcGxheTsgZW5jcnlwdGVkLW1lZGlhOyBneXJvc2NvcGU7IHBpY3R1cmUtaW4tcGljdHVyZSIgYWxsb3dmdWxsc2NyZWVuPjwvaWZyYW1lPg=="><iframe
+      width="560" height="315" src="https://www.youtube.com/embed/yiORcBQghIk"
+      frameborder="0" allow="accelerometer; autoplay; encrypted-media;
+      gyroscope; picture-in-picture"
+      allowfullscreen=""></iframe></div><p>&nbsp;</p>
 ---
 
 ## This is the beginning of an epic blog post
