@@ -10,7 +10,7 @@ plugins:
   - jekyll-paginate-v2
 
 _options:
-  embed-video_html: 
+  embed-video_html:
     embed: true
   content:
     styles: /editor.css
@@ -143,10 +143,10 @@ _array_structures:
         link_url_1: https://apps.apple.com/us/app/apple-podcasts/id525463029
         link-text-2: Spotify
         link_url_2: https://open.spotify.com/genre/podcasts-page
-        podcast-info: On this episode of podcast name we spoke with ooj woedj owe about aosj doio jeo joewj owjefo nweo OEFJ Owej noewnoin ONVOWENFOWEO OWJEF OIWEJFOIWEJ OWI EJ, and so much more...
+        podcast-info: This is a short description
 
     - label: Video
       icon: live_tv
       value:
         _id: video
-        embed-video: https://www.youtube.com/embed/jG7dSXcfVqE
+        embed-video_html: Add your embed code here. 
