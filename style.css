@@ -238,6 +238,10 @@ a {
   color: inherit;
 }
 
+p a {
+color: #909DA1;
+}
+
 .main-body h1  {
 font-size: 3rem;
 margin-bottom: 2.5rem;
