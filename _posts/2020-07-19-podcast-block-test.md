@@ -20,7 +20,7 @@ page_blocks:
     link-text-1: Apple
     link_url_1: 'https://apps.apple.com/us/app/apple-podcasts/id525463029'
     link-text-2: Spotify
-    link_url_2: 'https://open.spotify.com/genre/podcasts-page'
+    link_url_2: 'https://podcasters.spotify.com/'
     podcast-info: This is a short description
 seo:
   meta-title:
