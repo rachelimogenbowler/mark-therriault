@@ -2,7 +2,7 @@
 layout: post
 title: test for text align
 slug: test-for-text-align
-hide-intro-banner: false
+hide-intro-banner: true
 author: Mark T
 categories:
   - Travel
