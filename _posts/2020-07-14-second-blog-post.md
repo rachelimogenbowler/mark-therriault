@@ -2,7 +2,6 @@
 layout: post
 title: Second Blog Post
 category: Motivation
-description: Short description of second blog post
 featured_image: /images/website_placeholder_4.jpg
 intro_banner_image: /images/website_placeholder_4.jpg
 page_blocks:
@@ -16,6 +15,10 @@ page_blocks:
         TEST TESTcontinuing blog post to transition into main bog post body
         aksndl mlam p'ejw ofewno;f no;k mopqwkmp mq pw mowempoewkm   f'p  w
         mewop kneown onewon welkm ldkmwel  kj e rpkemw pekmfpw...
+seo:
+  meta-title:
+  meta-description:
+  social-sharing_image:
 ---
 
 ## Heading - My Second Post

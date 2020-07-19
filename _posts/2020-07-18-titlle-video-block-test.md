@@ -15,6 +15,10 @@ page_blocks:
       src="https://www.youtube.com/embed/nhPaWIeULKk" frameborder="0"
       allow="accelerometer; autoplay; encrypted-media; gyroscope;
       picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</p>
+seo:
+  meta-title:
+  meta-description:
+  social-sharing_image:
 ---
 
 a little bit of extra info abou the video maybe
