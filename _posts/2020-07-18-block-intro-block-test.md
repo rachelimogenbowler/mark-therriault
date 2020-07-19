@@ -4,7 +4,6 @@ title: Block intro block test
 categories:
   - Travel
   - Video
-description: Short description of first blog post
 featured_image: /images/website_placeholder_Speak2.jpg
 intro_banner_image: /images/website_placeholder_4.jpg
 author: Mark T
@@ -20,6 +19,10 @@ page_blocks:
       Block intro block test continuing blog post to transition into main bog
       post body aksndl mlam p'ejw ofewno;f no;k mopqwkmp mq pw mowempoewkm  
       f'p  w mewop kneown onewon welkm ldkmwel  kj e rpkemw pekmfpw...
+seo:
+  meta-title:
+  meta-description:
+  social-sharing_image: 
 ---
 
 Block intro block test Block intro block test Block intro block test &nbsp;Block intro block test Block intro block test Block intro block test Block intro block test Block intro block test Block intro block test Block intro block test Block intro block test Block intro block test Block intro block test

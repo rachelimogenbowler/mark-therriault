@@ -3,7 +3,6 @@ layout: post
 title: title Blog blost block test podcast
 categories:
   - Podcast
-description: desciption Blog blost block test podcast
 featured_image: /images/website_placeholder_3.jpg
 intro_banner_image: /images/website_placeholder_1.jpg
 author: Mark T
@@ -24,6 +23,10 @@ page_blocks:
       isdjfejwfij iejfoewijof qjoerjfgeoijf oijewoijroq ijweorij oewijroweij
       qoiewjfowijr oiwejo qjeoirjeoqwijr oiqewjroewijro iqwejroijewojfoiq
       joiwerjoewjrqwoeijfo ijroeiwjqroewijr
+seo:
+  meta-title:
+  meta-description:
+  social-sharing_image:
 ---
 
 <div class="cms-embed" data-cms-embed="IDxpZnJhbWUgc3R5bGU9ImJvcmRlcjogbm9uZSIgc3JjPSIvL2h0bWw1LXBsYXllci5saWJzeW4uY29tL2VtYmVkL2VwaXNvZGUvaWQvMTUxNTExMzkvaGVpZ2h0LzQ1L3RoZW1lL3N0YW5kYXJkL3RodW1ibmFpbC95ZXMvZGlyZWN0aW9uL2JhY2t3YXJkLyIgaGVpZ2h0PSI0NSIgd2lkdGg9IjEwMCUiIHNjcm9sbGluZz0ibm8iIGFsbG93ZnVsbHNjcmVlbiB3ZWJraXRhbGxvd2Z1bGxzY3JlZW4gbW96YWxsb3dmdWxsc2NyZWVuIG9hbGxvd2Z1bGxzY3JlZW4gbXNhbGxvd2Z1bGxzY3JlZW4+PC9pZnJhbWU+Cg=="><iframe style="border: none" src="//html5-player.libsyn.com/embed/episode/id/15151139/height/45/theme/standard/thumbnail/yes/direction/backward/" height="45" width="100%" scrolling="no" allowfullscreen="" webkitallowfullscreen="" mozallowfullscreen="" oallowfullscreen="" msallowfullscreen=""></iframe></div>
