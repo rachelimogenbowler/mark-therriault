@@ -1,0 +1,21 @@
+<div class="col-4_sm-12 padded-1 post-loop-item">
+  <a class="" href="{{post.url}}">
+  <div class="featured-bg-image" style="background-image:url({{post.featured_image}})"> </div>
+  </a>
+  <div class="bg-dark post-info">
+    <div class="post-category">
+      <h3>
+        {% for category in post.categories %}
+        <a href="/category/{{ category | slugify }}" class="tag">
+          {{ category | replace: "-", " " }}
+        </a>
+        {% endfor %}
+       </h3>
+     </div>
+      <div class="post-title">
+        <a href="{{post.url}}">
+          <h2> {{post.title}} </h2>
+        </a>
+      </div>
+    </div>
+  </div>
