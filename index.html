@@ -6,7 +6,7 @@ hub_image: /images/website_placeholder_2.jpg
 seo:
   meta-title: Mark Therriault | Leave Your Mark
   meta-description:
-  social-sharing_image: 
+  social-sharing_image:
 ---
 
 <!-- MAIN INTRO BANNER SECTION -->
@@ -75,24 +75,8 @@ seo:
 
 
   {% for post in site.posts limit: 6 %}
-<div class="col-4_sm-12 padded-1">
-  <a class="post-loop-item" href="{{post.url}}">
-  <div class="featured-bg-image" style="background-image:url({{post.featured_image}})"> </div>
-  <div class="bg-dark post-info">
-    <div class="post-category">
-      <h3> {% for category in post.categories %}
-        <span href="/category/{{ category | slugify }}" class="tag">
-          {{ category | replace: "-", " " }}
-        </span>
-        {% endfor %}
-       </h3>
-     </div>
-      <div class="post-title">
-        <h2> {{post.title}} </h2>
-      </div>
-    </div>
-  </a>
-  </div>
+
+  {% include post-list-item.html %}
 
   {% endfor %}
 
