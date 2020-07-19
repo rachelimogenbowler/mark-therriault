@@ -103,6 +103,12 @@ padding: 4%;
   padding-bottom: 100%;
 }
 
+.intro-block-image {
+height: auto;
+max-width: 100%;
+dispaly: inline-block;
+}
+
 .text-light {
   color: white;
 }
@@ -115,6 +121,7 @@ padding: 4%;
   color:#3D4D54;
 }
 
+/*
 .about-hero-bg-image {
   background-size: cover;
   background-position: center;
@@ -128,6 +135,7 @@ padding: 4%;
   background-color: #909DA1;
   padding-bottom: 125%;
 }
+*/
 
 .hub-subheading {
   max-width: 22rem;
@@ -334,7 +342,7 @@ text-decoration: none;
   display: block;
 }
 
-/* This targets the image when you hover  */
+/* This targets the entire item when you hover  */
 .post-loop-item:hover  {
   opacity: 0.8;
   transition: 0.5s;
