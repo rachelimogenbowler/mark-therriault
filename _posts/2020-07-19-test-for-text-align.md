@@ -7,10 +7,10 @@ author: Mark T
 categories:
   - Travel
 featured_image: /images/website_placeholder_3.jpg
-intro_banner_image: /images/website_placeholder_1.jpg
+intro_banner_image:
 background-position:
   - center
-banner-overlay_color: '#ce9d9d'
+banner-overlay_color: '#ffffff'
 banner-text_color: '#100a0a'
 page_blocks:
   - _id: podcast
