@@ -6,8 +6,8 @@ hide-intro-banner: false
 author: Mark T
 categories:
   - Travel
-featured_image: /images/website_placeholder_4.jpg
-intro_banner_image: /images/website_placeholder_4.jpg
+featured_image: /images/website_placeholder_3.jpg
+intro_banner_image: /images/website_placeholder_1.jpg
 background-position:
   - center
 banner-overlay_color: 'rgba(0, 0, 0, 0.8)'
@@ -21,3 +21,10 @@ _comments:
   slug: Overrides the deafult url
 ---
 
+# owen eiwoid wdoqwjojdq oqwhdoqwjdoqwdwqndowqdn
+{: .center}
+
+fdofjwowjdqwodjqowdd dkqwndoqwjdoqw owhdoqwj dqodjqw
+{: .center}
+
+dbdioqwdqw dqwjndboqwd xoqjdokqwjdokqwn. dojwdoqwjdoqw d dkqwdjnoqwjdoqwnd qwkdnoqwndiwq dqwdojqwodhjqwoidiqwniniio iqwdnkqwd dowdnqwkdjnq doijqwdojqw doqihdioqwjdqw diqwhdiqw
