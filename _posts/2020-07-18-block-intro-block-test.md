@@ -1,13 +1,13 @@
 ---
 layout: post
 title: Block intro block test
+slug: 
 categories:
   - Travel
   - Video
 featured_image: /images/website_placeholder_Speak2.jpg
 intro_banner_image: /images/website_placeholder_4.jpg
 author: Mark T
-banner-heading: My First Post
 page_blocks:
   - _id: blog-intro
     background-image_path: /images/website_placeholder_3.jpg
@@ -22,7 +22,7 @@ page_blocks:
 seo:
   meta-title:
   meta-description:
-  social-sharing_image: 
+  social-sharing_image:
 ---
 
 Block intro block test Block intro block test Block intro block test &nbsp;Block intro block test Block intro block test Block intro block test Block intro block test Block intro block test Block intro block test Block intro block test Block intro block test Block intro block test Block intro block test

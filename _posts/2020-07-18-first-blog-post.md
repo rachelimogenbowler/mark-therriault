@@ -1,6 +1,7 @@
 ---
 layout: post
 title: First Blog Post
+slug: 
 categories:
   - Travel
   - Video
@@ -8,7 +9,6 @@ description: Short description of first blog post
 featured_image: /images/website_placeholder_4.jpg
 intro_banner_image: /images/website_placeholder_4.jpg
 author: Mark T
-banner-heading: My First Post
 page_blocks:
   - _id: podcast
     podcast_image: /images/website_placeholder_4.jpg
@@ -33,7 +33,7 @@ page_blocks:
 seo:
   meta-title:
   meta-description:
-  social-sharing_image: 
+  social-sharing_image:
 ---
 
 ## This is the beginning of an epic blog post

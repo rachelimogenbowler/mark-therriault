@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Third Blog Post
+slug:
 category: Business
 featured_image: /images/website_placeholder_4.jpg
 intro_banner_image: /images/website_placeholder_4.jpg

@@ -1,3 +1,10 @@
+defaults:
+  - scope:
+      path: ''
+      type: 'posts'
+    values:
+      permalink: /posts/:seo:slug
+
 categories:
 - Travel
 - Motivation

@@ -1,13 +1,13 @@
 ---
 layout: post
 title: titlle Video Block Test
+slug: 
 categories:
   - Video
 description: Short description of first blog post
 featured_image: /images/website_placeholder_4.jpg
 intro_banner_image: /images/website_placeholder_1.jpg
 author: Mark T
-banner-heading: banner Video Block Test
 page_blocks:
   - _id: video
     embed-video_html: >-

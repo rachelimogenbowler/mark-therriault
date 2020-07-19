@@ -1,12 +1,12 @@
 ---
 layout: post
 title: title Blog blost block test podcast
+slug: 
 categories:
   - Podcast
 featured_image: /images/website_placeholder_3.jpg
 intro_banner_image: /images/website_placeholder_1.jpg
 author: Mark T
-banner-heading: banner heading Blog blost block test podcast
 page_blocks:
   - _id: podcast
     podcast_image: /images/website_placeholder_Speak1.jpg
