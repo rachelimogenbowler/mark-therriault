@@ -24,9 +24,9 @@ _options:
   content:
     styles: /editor.css
     embed: true
-    left: align-left
-    center: align-center
-    right: align-right
+    left: left
+    center: center
+    right: right
     justify: full-width-text
     blockquote: true
     horizontalrule: true

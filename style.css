@@ -31,10 +31,14 @@ img {
 .right {
   text-align: right;
 }
-
 .center {
   text-align: center;
 }
+
+.justify {
+  text-align: justify;
+}
+
 
 .padded {
   padding: 5%;
@@ -233,8 +237,8 @@ a {
   text-decoration: none;
   color: inherit;
 }
+
 .main-body h1  {
-text-align: center;
 font-size: 3rem;
 margin-bottom: 2.5rem;
 }
