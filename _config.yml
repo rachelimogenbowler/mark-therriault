@@ -10,6 +10,8 @@ plugins:
   - jekyll-paginate-v2
 
 _options:
+  layout:
+    hidden: true
   embed-video_html:
     embed: true
   content:

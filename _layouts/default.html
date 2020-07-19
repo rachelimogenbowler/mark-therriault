@@ -6,7 +6,13 @@
 
 <head>
 
-  <title> {{page.title}} </title>
+  <!-- This is the SEO Meta Data  -->
+  <meta charset="utf-8">
+  <title>{{page.seo.meta-title}}</title>
+  <meta property="og:description" content="{{page.seo.meta-description}}">
+  <meta property="og:image" content="{{page.seo.social-sharing_image}}">
+  <meta name="description" content="{{page.seo.meta-description}}">
+  <meta name="author" content="Mark Therriault">
 
  <!-- Viewport meta tag for responsiveness on mobile -->
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
