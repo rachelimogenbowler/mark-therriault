@@ -255,10 +255,17 @@ color: #AC823A;
 /* color: #909DA1; */
 }
 
+.post-header h1 {
+  font-size: 3rem;
+  text-align: center;
+  padding: 5%;
+}
+
 .main-body h1  {
 font-size: 3rem;
 margin-bottom: 2.5rem;
 }
+
 
 /* HEADER & FOOTER */
 header {
