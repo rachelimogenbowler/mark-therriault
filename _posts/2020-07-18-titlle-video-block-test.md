@@ -2,6 +2,7 @@
 layout: post
 title: titlle Video Block Test
 slug:
+hide-intro-banner: false
 categories:
   - Video
 description: Short description of first blog post

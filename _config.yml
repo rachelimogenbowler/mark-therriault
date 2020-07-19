@@ -146,7 +146,7 @@ _array_structures:
       value:
         _id: podcast
         podcast_image: /images/website-placeholder_3.jpg
-        subheading: Podcast
+        sub-heading: Podcast
         heading: Listen To This Episode On
         link-text-1: Apple
         link_url_1: https://apps.apple.com/us/app/apple-podcasts/id525463029
