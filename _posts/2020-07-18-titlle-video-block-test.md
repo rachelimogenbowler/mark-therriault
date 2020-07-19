@@ -1,7 +1,7 @@
 ---
 layout: post
 title: titlle Video Block Test
-slug: 
+slug:
 categories:
   - Video
 description: Short description of first blog post
@@ -19,6 +19,8 @@ seo:
   meta-title:
   meta-description:
   social-sharing_image:
+_comments:
+  slug: Overrides the deafult url
 ---
 
 a little bit of extra info abou the video maybe

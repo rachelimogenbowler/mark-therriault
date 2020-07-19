@@ -13,4 +13,6 @@ seo:
   meta-title:
   meta-description:
   social-sharing_image:
+_comments:
+  slug: Overrides the deafult url
 ---
