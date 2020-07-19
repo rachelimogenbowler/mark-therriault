@@ -10,7 +10,7 @@ featured_image: /images/website_placeholder_3.jpg
 intro_banner_image: /images/website_placeholder_1.jpg
 background-position:
   - center
-banner-overlay_color: 'rgba(0, 0, 0, 0.8)'
+banner-overlay_color: '#ffffff'
 banner-text_color: '#ffffff'
 page_blocks:
 seo:
