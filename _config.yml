@@ -3,7 +3,7 @@ defaults:
       path: ''
       type: 'posts'
     values:
-      permalink: /posts/:seo:slug
+      permalink: /posts/:slug
 
 categories:
 - Travel

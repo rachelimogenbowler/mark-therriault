@@ -1,7 +1,8 @@
 ---
 layout: post
 title: First Blog Post
-slug: 
+slug:
+hide-intro-banner: false
 categories:
   - Travel
   - Video

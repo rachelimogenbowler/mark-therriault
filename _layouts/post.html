@@ -5,6 +5,8 @@ intro_banner_image: /images/website_placeholder_7.jpg
 
 <!--  Post Feature Image  -->
 
+{% unless page.hide-intro-banner == 'true' %}
+
 <section class="banner sub-section bg-image center grid"
 style="background-image:url({{page.intro_banner_image}})">
   <div class="col-12 overlay grid padded" style="background-color:{{page.banner-overlay_color}}">
@@ -14,6 +16,8 @@ style="background-image:url({{page.intro_banner_image}})">
   </div>
 
 </section>
+
+{% endunless %}
 
 <!--- Tell your page template to use those blocks --->
 

@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Second Blog Post
-slug: 
+slug:
+hide-intro-banner: false
 category: Motivation
 featured_image: /images/website_placeholder_4.jpg
 intro_banner_image: /images/website_placeholder_4.jpg

@@ -1,7 +1,8 @@
 ---
 layout: post
 title: title Blog blost block test podcast
-slug: 
+slug:
+hide-intro-banner: false
 categories:
   - Podcast
 featured_image: /images/website_placeholder_3.jpg

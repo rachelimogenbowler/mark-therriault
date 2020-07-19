@@ -2,6 +2,7 @@
 layout: post
 title: This is your post title
 slug:
+hide-intro-banner: false
 author: Mark T
 category: Business
 featured_image: /images/website_placeholder_4.jpg

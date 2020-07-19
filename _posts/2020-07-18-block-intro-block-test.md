@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Block intro block test
-slug: 
+slug:
+hide-intro-banner: false
 categories:
   - Travel
   - Video
