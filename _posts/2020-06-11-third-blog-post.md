@@ -6,6 +6,7 @@ hide-intro-banner: false
 category: Business
 featured_image: /images/website_placeholder_4.jpg
 intro_banner_image: /images/website_placeholder_4.jpg
+background-position: 
 banner-overlay_color: rgba(0,0,0,0.8);
 banner-text_color: red
 page_blocks:

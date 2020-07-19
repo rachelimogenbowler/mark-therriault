@@ -8,7 +8,7 @@ intro_banner_image: /images/website_placeholder_7.jpg
 {% unless page.hide-intro-banner == 'true' %}
 
 <section class="banner sub-section bg-image center grid"
-style="background-image:url({{page.intro_banner_image}})">
+style="background-image:url({{page.intro_banner_image}}); background-position:'{{page.background-position}}';">
   <div class="col-12 overlay grid padded" style="background-color:{{page.banner-overlay_color}}">
     <div class="col-12-middle">
       <h1 style="color:{{page.banner-text_color}}">{{page.title}}</h1>

@@ -12,6 +12,18 @@ categories:
 - Podcast
 - Video
 
+background-position:
+- center
+- left top
+- left center
+- left bottom
+- right top
+- right center
+- right bottom
+- center top
+- center center
+- center bottom
+
 # plugin stuff
 plugins:
   - jekyll-paginate-v2
@@ -30,15 +42,11 @@ _options:
     justify: full-width-text
     blockquote: true
     horizontalrule: true
-    format: p h1 h2 h3 h4 h5 h6 pre address div
+    format: p h1 h2 h3 h4 h5 h6
     bold: true
     italic: true
     numberedlist: true
-    code: true
     table: true
-    right: align-to-right
-    center: align-to-center
-    left: align-to-left
     embed: true
     link: true
     undo: true
