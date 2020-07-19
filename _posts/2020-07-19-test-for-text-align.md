@@ -13,6 +13,15 @@ background-position:
 banner-overlay_color: '#ce9d9d'
 banner-text_color: '#100a0a'
 page_blocks:
+  - _id: podcast
+    podcast_image: /images/website_placeholder_3.jpg
+    sub-heading: Podcast
+    heading: Listen To This Episode On
+    link-text-1: Apple
+    link_url_1: 'https://apps.apple.com/us/app/apple-podcasts/id525463029'
+    link-text-2: Spotify
+    link_url_2: 'https://open.spotify.com/genre/podcasts-page'
+    podcast-info: This is a short description
 seo:
   meta-title:
   meta-description:
