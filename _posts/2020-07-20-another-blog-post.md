@@ -1,7 +1,7 @@
 ---
 layout: post
 title: another blog post
-date:
+date: 2016-03-23T10:20:00Z
 slug: another-blog-post
 hide-intro-banner: false
 author: Mark T

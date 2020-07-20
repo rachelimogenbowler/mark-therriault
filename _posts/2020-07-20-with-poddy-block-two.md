@@ -1,7 +1,7 @@
 ---
 layout: post
 title: with poddy block two
-date:
+date: 2016-03-23T10:20:00Z
 slug: with-poddy-block-two
 hide-intro-banner: false
 author: Mark T

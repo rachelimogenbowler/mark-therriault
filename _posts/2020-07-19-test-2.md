@@ -1,7 +1,7 @@
 ---
 layout: post
 title: test-2
-date:
+date: 2016-03-23T10:20:00Z
 slug:
 hide-intro-banner: false
 author: Mark T

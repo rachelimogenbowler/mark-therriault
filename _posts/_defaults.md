@@ -1,6 +1,7 @@
 ---
 layout: post
 title: This is your post title
+date: 2020-03-23T10:20:00Z
 slug:
 hide-intro-banner: false
 author: Mark T

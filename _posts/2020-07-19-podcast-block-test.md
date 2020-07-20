@@ -1,7 +1,7 @@
 ---
 layout: post
 title: podcast-block-test
-date:
+date: 2016-03-23T10:20:00Z
 slug: podcast-block-test
 hide-intro-banner: false
 author: Mark T

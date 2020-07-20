@@ -1,7 +1,7 @@
 ---
 layout: post
 title: First Blog Post
-date:
+date: 2016-03-23T10:20:00Z
 slug:
 hide-intro-banner: false
 categories:

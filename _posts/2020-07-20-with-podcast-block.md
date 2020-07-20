@@ -1,7 +1,7 @@
 ---
 layout: post
 title: with podcast block
-date:
+date: 2016-03-23T10:20:00Z
 slug: with-podcast-block
 hide-intro-banner: false
 author: Mark T

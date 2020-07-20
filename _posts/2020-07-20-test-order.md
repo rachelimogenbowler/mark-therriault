@@ -1,7 +1,7 @@
 ---
 layout: post
 title: test-order
-date:
+date: 2016-03-23T10:20:00Z
 slug: test-order
 hide-intro-banner: false
 author: Mark T
