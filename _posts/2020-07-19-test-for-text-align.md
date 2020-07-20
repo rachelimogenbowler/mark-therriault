@@ -1,6 +1,7 @@
 ---
 layout: post
 title: test for text align
+date:
 slug: test-for-text-align
 hide-intro-banner: true
 author: Mark T

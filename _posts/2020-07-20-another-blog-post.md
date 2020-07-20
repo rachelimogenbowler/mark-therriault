@@ -1,6 +1,7 @@
 ---
 layout: post
 title: another blog post
+date:
 slug: another-blog-post
 hide-intro-banner: false
 author: Mark T
@@ -29,4 +30,3 @@ seo:
 _comments:
   slug: Overrides the deafult url
 ---
-

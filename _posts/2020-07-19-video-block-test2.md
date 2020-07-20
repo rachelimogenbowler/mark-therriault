@@ -1,6 +1,7 @@
 ---
 layout: post
 title: video-block-test2
+date:
 slug: video-block-test2
 hide-intro-banner: true
 author: Mark T

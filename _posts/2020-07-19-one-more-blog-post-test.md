@@ -1,6 +1,7 @@
 ---
 layout: post
 title: one-more-blog-post-test
+date:
 slug: one-more-blog-post-test
 hide-intro-banner: false
 author: Mark T

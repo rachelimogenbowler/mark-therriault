@@ -1,6 +1,7 @@
 ---
 layout: post
 title: test-order
+date:
 slug: test-order
 hide-intro-banner: false
 author: Mark T
@@ -19,4 +20,3 @@ seo:
 _comments:
   slug: Overrides the deafult url
 ---
-

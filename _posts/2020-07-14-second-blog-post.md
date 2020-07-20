@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Second Blog Post
+date:
 slug:
 hide-intro-banner: false
 category: Motivation

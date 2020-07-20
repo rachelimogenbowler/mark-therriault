@@ -1,6 +1,7 @@
 ---
 layout: post
 title: heading-test
+date:
 slug: heading-test
 hide-intro-banner: false
 author: Mark T
@@ -20,4 +21,3 @@ seo:
 _comments:
   slug: Overrides the deafult url
 ---
-

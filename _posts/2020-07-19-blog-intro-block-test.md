@@ -1,6 +1,7 @@
 ---
 layout: post
 title: blog-intro-block-test
+date:
 slug: blog-intro-block-test
 hide-intro-banner: false
 author: Mark T
@@ -30,4 +31,3 @@ seo:
 _comments:
   slug: Overrides the deafult url
 ---
-

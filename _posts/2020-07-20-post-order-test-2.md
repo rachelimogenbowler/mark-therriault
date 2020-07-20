@@ -1,6 +1,7 @@
 ---
 layout: post
 title: post-order-test-2
+date:
 slug: post-order-test-2
 hide-intro-banner: false
 author: Mark T

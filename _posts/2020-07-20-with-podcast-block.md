@@ -1,6 +1,7 @@
 ---
 layout: post
 title: with podcast block
+date:
 slug: with-podcast-block
 hide-intro-banner: false
 author: Mark T
@@ -27,4 +28,3 @@ seo:
 _comments:
   slug: Overrides the deafult url
 ---
-

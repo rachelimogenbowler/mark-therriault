@@ -1,6 +1,7 @@
 ---
 layout: post
 title: order category change two
+date:
 slug: order-category-change-two
 hide-intro-banner: false
 author: Mark T
@@ -19,4 +20,3 @@ seo:
 _comments:
   slug: Overrides the deafult url
 ---
-

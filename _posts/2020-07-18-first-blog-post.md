@@ -1,6 +1,7 @@
 ---
 layout: post
 title: First Blog Post
+date:
 slug:
 hide-intro-banner: false
 categories:

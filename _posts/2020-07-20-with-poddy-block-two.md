@@ -1,6 +1,7 @@
 ---
 layout: post
 title: with poddy block two
+date:
 slug: with-poddy-block-two
 hide-intro-banner: false
 author: Mark T
@@ -28,4 +29,3 @@ seo:
 _comments:
   slug: Overrides the deafult url
 ---
-
