@@ -1,15 +1,14 @@
 ---
 layout: post
-title: blog post ink test
-slug:
+title: post-order-test-2
+slug: post-order-test-2
 hide-intro-banner: false
 author: Mark T
 categories:
   - Travel
-featured_image: /images/website_placeholder_4.jpg
-intro_banner_image: /images/website_placeholder_4.jpg
-background-position:
-  - center
+featured_image: /images/website_placeholder_3.jpg
+intro_banner_image: /images/website_placeholder_3.jpg
+background-position: center
 banner-overlay_color: 'rgba(0, 0, 0, 0.8)'
 banner-text_color: '#ffffff'
 page_blocks:
@@ -21,4 +20,4 @@ _comments:
   slug: Overrides the deafult url
 ---
 
-check out [rachelbower.com](https://rachelbowler.com/){: target="_blank"} for&nbsp; ifisjnei
+kjn
