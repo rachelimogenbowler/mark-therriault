@@ -5,14 +5,18 @@ intro_banner_image: /images/website_placeholder_7.jpg
 
 <!--  Post Feature Image  -->
 
+<section class="post-header">
+<h1 class="center" style="color:{{page.banner-text_color}}">{{page.title}}</h1>
+</section>
+
 {% unless page.hide-intro-banner == 'true' %}
 
 <section class="banner sub-section bg-image center grid"
 style="background-image:url({{page.intro_banner_image}}); background-position:{{page.background-position}};">
   <div class="col-12 overlay grid padded" style="background-color:{{page.banner-overlay_color}}">
-    <div class="col-12-middle">
+  <!---  <div class="col-12-middle">
       <h1 style="color:{{page.banner-text_color}}">{{page.title}}</h1>
-     </div>
+     </div> --->
   </div>
 
 </section>
@@ -50,7 +54,12 @@ style="background-image:url({{page.intro_banner_image}}); background-position:{{
 
   </div>
 
+<section>
+
       <div class="prev-next center">
+        <h4 class="text-alt center editable padded-1">
+          READ MORE
+        </h4>
             {% if page.previous.url %}
               <a class="prev" href="{{page.previous.url}}">&laquo;<span> {{page.previous.title}}</span></a>
             {% endif %}
