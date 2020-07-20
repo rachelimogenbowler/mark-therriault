@@ -6,6 +6,7 @@ hide-intro-banner: false
 author: Mark T
 categories:
   - Travel
+  - pie
 featured_image: /images/website_placeholder_4.jpg
 intro_banner_image: /images/website_placeholder_4.jpg
 background-position: center bottom
