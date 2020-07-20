@@ -5,12 +5,6 @@ defaults:
     values:
       permalink: /posts/:slug
 
-categories:
-- Travel
-- Motivation
-- Business
-- Podcast
-- Video
 
 background-position:
 - center
