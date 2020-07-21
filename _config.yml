@@ -18,6 +18,11 @@ background-positions:
 - center center
 - center bottom
 
+image-sizes:
+- bg-tall
+- bg-square
+- bg-landscape
+
 # plugin stuff
 plugins:
   - jekyll-paginate-v2
@@ -140,8 +145,9 @@ _array_structures:
       value:
         _id: blog-intro
         background-image_path: /images/website_placeholder_5.jpg
-        statement-paragraph: This is styled text to make a statement when you open your bog post to encourage people to read further, and make sure they know this is a written blog post
-        regular-paragraph: continuing blog post to transition into main bog post body aksndl mlam p'ejw ofewno;f no;k mopqwkmp mq pw mowempoewkm   f'p  w mewop kneown onewon welkm ldkmwel  kj e rpkemw pekmfpw...
+        image-size: bg-tall
+        statement-paragraph: This is styled text to make a statement when you open your bog post to encourage people to read further.
+        regular-paragraph: This is a regular paragraph
 
     - label: Podcast
       icon: mic

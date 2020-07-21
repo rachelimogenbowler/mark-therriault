@@ -108,9 +108,8 @@ margin-bottom: 5rem;
 }
 
 .intro-block-image {
-height: auto;
-max-width: 100%;
-dispaly: inline-block;
+  height: auto;
+  max-width: 100%;  
 }
 
 .text-light {
@@ -657,8 +656,18 @@ input[type="submit"] {
   display: none;
 }
 
+/* This will trigger at the same time as gridlex medium, mostly used for tablets  */
+@media (max-width:1024px){
+  .bg-md-square {
+    padding-bottom: 100%;
+  }
+  .bg-md-landscape {
+    padding-bottom: 60%;
+  }
+}
 
-@media (max-width:850px){
+/* This will trigger at the same time as gridlex small  */
+@media (max-width:768px){
 
   .bg-fixed {
     background-attachment: scroll;
@@ -685,14 +694,17 @@ input[type="submit"] {
   padding:0;
 }
 
-h2{font-size: 5vw;}
+h2{
+  font-size: 1.5rem;
+  margin-bottom: 1rem;
+}
 .banner{ min-height: 100vw;}
 .banner h1 {font-size: 8vw;}
 .banner h2 {font-size: 7vw;}
 
 .about-hero-bg-image,
 .blog-hero-bg-image,
-.bg-m-square {
+.bg-sm-square {
   padding-bottom: 100%
 }
 
