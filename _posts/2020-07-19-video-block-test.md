@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Video block test
+date: 2016-03-23T10:20:00Z 
 slug: video-block-test
 hide-intro-banner: false
 author: Mark T
@@ -28,4 +29,3 @@ seo:
 _comments:
   slug: Overrides the deafult url
 ---
-

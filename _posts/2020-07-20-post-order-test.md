@@ -1,15 +1,15 @@
 ---
 layout: post
-title: test-2
+title: post-order-test
 date: 2016-03-23T10:20:00Z
-slug:
+slug: post-order-test
 hide-intro-banner: false
 author: Mark T
 categories:
   - Travel
-featured_image: /images/website_placeholder_4.jpg
-intro_banner_image: /images/website_placeholder_4.jpg
-background-position: center bottom
+featured_image: /images/website_placeholder_1.jpg
+intro_banner_image: /images/website_placeholder_1.jpg
+background-position: center
 banner-overlay_color: 'rgba(0, 0, 0, 0.8)'
 banner-text_color: '#ffffff'
 page_blocks:
@@ -20,3 +20,5 @@ seo:
 _comments:
   slug: Overrides the deafult url
 ---
+
+infodkm

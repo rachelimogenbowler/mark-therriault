@@ -1,6 +1,7 @@
 ---
 layout: post
 title: plain-block-text
+date: 2016-03-23T10:20:00Z
 slug: plain-block-text
 hide-intro-banner: false
 author: Mark T

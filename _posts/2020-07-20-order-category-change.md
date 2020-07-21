@@ -1,14 +1,15 @@
 ---
 layout: post
-title: test-2
+title: order category change
 date: 2016-03-23T10:20:00Z
-slug:
+slug: order-category-change
 hide-intro-banner: false
 author: Mark T
 categories:
-  - Travel
-featured_image: /images/website_placeholder_4.jpg
-intro_banner_image: /images/website_placeholder_4.jpg
+  - Motivation
+  - Video
+featured_image: /images/RB_bali-mickael copy.jpg
+intro_banner_image: /images/RB_bali-mickael copy.jpg
 background-position: center bottom
 banner-overlay_color: 'rgba(0, 0, 0, 0.8)'
 banner-text_color: '#ffffff'

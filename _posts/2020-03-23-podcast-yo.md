@@ -1,16 +1,15 @@
 ---
 layout: post
-title: test-2
-date: 2016-03-23T10:20:00Z
-slug:
+title: podcast yo
+date: 2020-03-23 10:20:00
+slug: podcast-yo
 hide-intro-banner: false
 author: Mark T
 categories:
-  - Travel
+  - Podcast
 featured_image: /images/website_placeholder_4.jpg
 intro_banner_image: /images/website_placeholder_4.jpg
-background-position:
-  - center bottom
+background-position: center
 banner-overlay_color: 'rgba(0, 0, 0, 0.8)'
 banner-text_color: '#ffffff'
 page_blocks:
@@ -22,10 +21,3 @@ _comments:
   slug: Overrides the deafult url
 ---
 
-# ifijdijoijs sojsfofjdwow wofjweofjw f
-{: .center}
-
-ucdu ijneijndiwjnxononow. qw&nbsp; hdqwijnndiwhid.
-{: .center}
-
-oiqwhoqwjk n9wqjdoqw. ihweoiq qwidhqwodjqwodn wqiodjojdoqwndq dnqowdkjqwon qwniqjdowkjdf

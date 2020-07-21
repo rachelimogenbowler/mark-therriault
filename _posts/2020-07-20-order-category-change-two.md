@@ -1,15 +1,15 @@
 ---
 layout: post
-title: test-2
+title: order category change two
 date: 2016-03-23T10:20:00Z
-slug:
+slug: order-category-change-two
 hide-intro-banner: false
 author: Mark T
 categories:
-  - Travel
-featured_image: /images/website_placeholder_4.jpg
-intro_banner_image: /images/website_placeholder_4.jpg
-background-position: center bottom
+  - Business
+featured_image: /images/website_placeholder_3.jpg
+intro_banner_image: /images/website_placeholder_3.jpg
+background-position: center
 banner-overlay_color: 'rgba(0, 0, 0, 0.8)'
 banner-text_color: '#ffffff'
 page_blocks:
