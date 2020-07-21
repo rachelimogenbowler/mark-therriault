@@ -1,0 +1,30 @@
+---
+layout: post
+title: Test number 37
+date: 2020-07-21 10:20:00
+slug:
+hide-intro-banner: false
+author: Mark T
+categories:
+  - Travel
+featured_image: /images/website_placeholder_4.jpg
+intro_banner_image: /images/website_placeholder_4.jpg
+background-position: center
+banner-overlay_color: 'rgba(0, 0, 0, 0.8)'
+banner-text_color: '#ffffff'
+page_blocks:
+  - _id: blog-intro
+    background-image_path: /images/website_placeholder_5.jpg
+    image-size: bg-square
+    statement-paragraph: >-
+      This is styled text to make a statement when you open your bog post to
+      encourage people to read further.
+    regular-paragraph: This is a regular paragraph
+seo:
+  meta-title:
+  meta-description:
+  social-sharing_image:
+_comments:
+  slug: Overrides the deafult url
+---
+
