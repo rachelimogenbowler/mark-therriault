@@ -70,3 +70,25 @@ title: Blog Blocks
 
     </div>
 </section>
+
+
+<!--  Banner with customisable overlay -->
+
+<!-- In the front matter add
+  ---
+  intro_banner_image:
+  background-position:
+  banner-overlay_color: rgb(0,0,0,0.5)
+  banner-text_color:
+  ---
+ -->
+
+<section class="banner sub-section bg-image center grid"
+style="background-image:url({{page.intro_banner_image}}); background-position:{{page.background-position}};">
+  <div class="col-12 overlay grid padded" style="background-color:{{page.banner-overlay_color}}">
+  <div class="col-12-middle">
+      <h1 style="color:{{page.banner-text_color}}">{{page.title}}</h1>
+     </div>
+  </div>
+
+</section>

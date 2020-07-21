@@ -40,13 +40,11 @@ img {
 }
 
 
-.padded {
-  padding: 5%;
-}
+.padded     { padding: 5%;  }
+.padded-1   { padding: 1rem;  }
+.padded-b-1 { padding-bottom: 1rem; }
 
-.padded-1 {
-  padding: 1rem;
-}
+
 
 .padded-feature {
   margin-top: 2rem;
@@ -81,7 +79,7 @@ margin-bottom: 5rem;
 }
 
 .bg-light {
-  background-color: #E6E6E6;
+  background-color: #f0f1f2;
 }
 
 .bg-mid {
@@ -109,7 +107,7 @@ margin-bottom: 5rem;
 
 .intro-block-image {
   height: auto;
-  max-width: 100%;  
+  max-width: 100%;
 }
 
 .text-light {
@@ -257,7 +255,6 @@ color: #AC823A;
 .post-header h1 {
   font-size: 3rem;
   text-align: center;
-  padding: 5%;
 }
 
 .main-body h1  {
