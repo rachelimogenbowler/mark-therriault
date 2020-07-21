@@ -146,8 +146,8 @@ _array_structures:
         _id: blog-intro
         background-image_path: /images/website_placeholder_5.jpg
         image-size: bg-tall
-        statement-paragraph: This is styled text to make a statement when you open your bog post to encourage people to read further.
-        regular-paragraph: This is a regular paragraph
+        statement-paragraph_html: This is styled text to make a statement when you open your bog post to encourage people to read further.
+        regular-paragraph_html: This is a regular paragraph
 
     - label: Podcast
       icon: mic
@@ -160,7 +160,7 @@ _array_structures:
         link_url_1: https://apps.apple.com/us/app/apple-podcasts/id525463029
         link-text-2: Spotify
         link_url_2: https://open.spotify.com/genre/podcasts-page
-        podcast-info: This is a short description
+        podcast-info_html: This is a short description
 
     - label: Video
       icon: live_tv

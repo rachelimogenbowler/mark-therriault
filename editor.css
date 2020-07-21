@@ -38,3 +38,19 @@ img.small-centered {
   max-width: 300px;
   margin:auto;
 }
+
+/* Utiity classes */
+.left {
+  text-align: left;
+}
+
+.right {
+  text-align: right;
+}
+.center {
+  text-align: center;
+}
+
+.justify {
+  text-align: justify;
+}

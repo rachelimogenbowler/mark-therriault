@@ -9,11 +9,11 @@ intro_banner_image: /images/website_placeholder_7.jpg
 
   <h1 class="center padded-b-1">{{page.title}}</h1>
 
-  {% unless page.hide-intro-banner == 'true' %}
+  {% if page.hide-intro-banner == 'false' %}
       <section class="banner"
       style="background-image:url({{page.intro_banner_image}}); background-position:{{page.background-position}};">
       </section>
-  {% endunless %}
+  {% endif %}
 
 </section>
 
