@@ -421,6 +421,7 @@ text-decoration: none;
   color:#909DA1;
   border-top: 2px solid #3D4D54;
   border-bottom: 2px solid #3D4D54;
+  text-align: center;
 }
 
 .social-share h4 {
@@ -456,7 +457,7 @@ text-decoration: none;
 
 .prev-next h4 {
 margin-bottom: 0;
-font-size: 1.5rem;
+/* font-size: 1.5rem; */
 }
 
 /*----- BLOCKS STYLING -----*/
