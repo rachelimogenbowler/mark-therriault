@@ -6,9 +6,9 @@ date: 2020-07-15 10:20:00
 author: Mark T
 categories:
   - Travel
-featured_image: /images/website_placeholder_3.jpg
+featured_image: /images/benjamin-davies-mqN-EV9rNlY-unsplash (1).jpg
 hide-intro-banner: true
-intro_banner_image: /images/website_placeholder_3.jpg
+intro_banner_image:
 background-position: center
 page_blocks:
   - _id: podcast
