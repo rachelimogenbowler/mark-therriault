@@ -13,10 +13,12 @@ background-position: center
 page_blocks:
   - _id: video
     embed-video_html: >-
-      <p>&lt;iframe width="560" height="315"
-      src="https://www.youtube.com/embed/HyHNuVaZJ-k" frameborder="0"
-      allow="accelerometer; autoplay; encrypted-media; gyroscope;
-      picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</p><p>&nbsp;</p>
+      <div class="cms-embed"
+      data-cms-embed="PGlmcmFtZSB3aWR0aD0iNTYwIiBoZWlnaHQ9IjMxNSIgc3JjPSJodHRwczovL3d3dy55b3V0dWJlLmNvbS9lbWJlZC9IeUhOdVZhWkotayIgZnJhbWVib3JkZXI9IjAiIGFsbG93PSJhY2NlbGVyb21ldGVyOyBhdXRvcGxheTsgZW5jcnlwdGVkLW1lZGlhOyBneXJvc2NvcGU7IHBpY3R1cmUtaW4tcGljdHVyZSIgYWxsb3dmdWxsc2NyZWVuPjwvaWZyYW1lPg=="><iframe
+      width="560" height="315" src="https://www.youtube.com/embed/HyHNuVaZJ-k"
+      frameborder="0" allow="accelerometer; autoplay; encrypted-media;
+      gyroscope; picture-in-picture"
+      allowfullscreen=""></iframe></div><p>&nbsp;</p>
 seo:
   meta-title:
   meta-description:
