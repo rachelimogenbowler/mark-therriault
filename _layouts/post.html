@@ -9,18 +9,13 @@ intro_banner_image: /images/website_placeholder_7.jpg
 
   <h1 class="center padded-b-1">{{page.title}}</h1>
 
-  {% if page.hide-intro-banner == 'false' %}
+  {% if page.hide-intro-banner == false %}
       <section class="banner"
       style="background-image:url({{page.intro_banner_image}}); background-position:{{page.background-position}};">
       </section>
   {% endif %}
 
 </section>
-
-
-
-
-
 
 
 
@@ -41,7 +36,6 @@ intro_banner_image: /images/website_placeholder_7.jpg
 
   <!---- social sharing and post buttons --->
   <div class="social-share">
-
 
           <h4> Did you enoy this post? Share it on ... </h4>
           <nav>
