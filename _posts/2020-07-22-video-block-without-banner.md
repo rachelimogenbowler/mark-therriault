@@ -1,11 +1,12 @@
 ---
 layout: post
-title: video no banner
+title: video block without banner
 slug: video-no-banner
 date: 2020-07-22 10:20:00
 author: Mark T
 categories:
-  - Travel
+  - Video
+  - Business
 featured_image: /images/jeremy-bishop-7JPerNWjEAE-unsplash.jpeg
 hide-intro-banner: true
 intro_banner_image: /images/joel-vodell-8Ogfqvw15Rg-unsplash.jpg
