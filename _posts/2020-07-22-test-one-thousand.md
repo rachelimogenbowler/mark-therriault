@@ -15,9 +15,7 @@ page_blocks:
   - _id: blog-intro
     background-image_path: /images/website_placeholder_3.jpg
     image-size: bg-tall
-    statement-paragraph_html: >-
-      <p>This is styled text to make a statement when you open your bog post to
-      encourage people to read further. ijdsnfi</p>
+    statement-paragraph_html: <p>T ijnfdf fodjfoij fweoijfoweifm efowjiofiwme ihivdnvn</p>
     regular-paragraph_html: <p>This is a regular paragraph iwenfoiwen</p>
 seo:
   meta-title:
@@ -28,3 +26,23 @@ _comments:
   featured_image: Displays on the home and blog page
 ---
 
+iis dsoijfo ofjoewjf ewfowejfopmwef weojfwepojfwe fwejf0pwejfwe ewoijfpwejfweonf wefojweofjwe fwojfowejfow fweofijweopjfwoenf wefowejfowjef weofjweoifjewonf wefowejfowejfo wefwofweonfwe foewjfowenf weofjweonfew fowejfowejfwe fowejfowejfowenf weofjweofjwoenf weofjeowifjowe
+
+## iis dsoijfo ofjoewjf ewfowejfopmwef weojfwepojfwe fwejf0pwejfwe
+{: .center}
+
+ewoijfpwejfweonf wefojweofjwe fwojfowejfow fweofijweopjfwoenf wefowejfowjef weofjweoifjewonf wefowejfowejfo wefwofweonfwe foewjfowenf weofjweonfew fowejfowejfwe fowejfowejfowenf weofjweofjwoenf weofjeowifjowe
+
+iis dsoijfo ofjoewjf ewfowejfopmwef weojfwepojfwe fwejf0pwejfwe ewoijfpwejfweonf wefojweofjwe fwojfowejfow fweofijweopjfwoenf wefowejfowjef weofjweoifjewonf wefowejfowejfo wefwofweonfwe foewjfowenf weofjweonfew fowejfowejfwe fowejfowejfowenf weofjweofjwoenf weofjeowifjowe
+
+![](/images/website_placeholder_2.jpg){: .one-half width="1200" height="1800"}![](/images/website_placeholder_4.jpg){: .one-half width="1200" height="1800"}
+
+## iis dsoijfo ofjoewjf ewfowejfopmwef weojfwepojfwe fwejf0pwejfwe
+
+ewoijfpwejfweonf wefojweofjwe fwojfowejfow fweofijweopjfwoenf wefowejfowjef weofjweoifjewonf wefowejfowejfo wefwofweonfwe foewjfowenf weofjweonfew fowejfowejfwe fowejfowejfowenf weofjweofjwoenf weofjeowifjow
+
+&nbsp;
+
+* ewoijfpwejfweonf wefojweofjwe fwojfowejfow fweofijweopjfwoenf wefowejfowjef
+* weofjweoifjewonf wefowejfowejfo wefwofweonfwe foewjfowenf weofjweonfew fowejfowejfwe
+* fowejfowejfowenf weofjweofjwoenf weofjeowifjow
