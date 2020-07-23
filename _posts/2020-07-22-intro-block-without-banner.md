@@ -7,6 +7,7 @@ author: Mark T
 categories:
   - Travel
   - Motivation
+  - Business
 featured_image: /images/website_placeholder_7.jpg
 hide-intro-banner: true
 intro_banner_image:
