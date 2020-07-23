@@ -1,11 +1,12 @@
 ---
 layout: post
-title: podcast w banner
+title: Podcast Block With Banner
 slug: podcast-w-banner
 date: 2020-07-22 10:20:00
 author: Mark T
 categories:
-  - Travel
+  - Business
+  - Podcast
 featured_image: /images/website_placeholder_1.jpg
 hide-intro-banner: false
 intro_banner_image: /images/website_placeholder_1.jpg
