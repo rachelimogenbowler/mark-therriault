@@ -42,7 +42,7 @@ img {
 
 .padded     { padding: 5%;  }
 .padded-1   { padding: 1rem;  }
-.padded-b-1 { padding-bottom: 1rem; }
+.padded-b-2 { padding-bottom: 2rem; }
 
 
 
@@ -53,9 +53,8 @@ img {
   margin-right: 5%;
 }
 
-.padded-4 {
-padding: 4%;
-}
+.padded-4 { padding: 4%; }
+.padded-b-4 { padding-bottom: 4rem; }
 
 .margin-bottom-1 {
   margin-bottom: 1rem;
@@ -80,6 +79,10 @@ margin-bottom: 5rem;
 
 .bg-light {
   background-color: #f0f1f2;
+}
+
+.bg-banner {
+background-color: #f3f3f4;
 }
 
 .bg-mid {
@@ -253,8 +256,9 @@ color: #AC823A;
 }
 
 .post-header h1 {
-  font-size: 3rem;
+  font-size: 2.5rem;
   text-align: center;
+  color: #262F39;
 }
 
 .main-body h1  {
