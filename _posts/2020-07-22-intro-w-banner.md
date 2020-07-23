@@ -15,9 +15,21 @@ page_blocks:
     background-image_path: /images/daniel-jensen-tQpypKA92k8-unsplash.jpg
     image-size: bg-tall
     statement-paragraph_html: >-
-      <p>This is styled text to make a statement when you open your bog post to
-      encourage people to read further.</p>
-    regular-paragraph_html: <p>This is a regular paragraph</p>
+      <p>"This is styled text to make a statement when you open your bog post to
+      encourage people to read further. This is styled text to make a statement
+      when you open your bog post to encourage people to read further. This is
+      styled text to make a statement when you open your bog post to encourage
+      people to read further."</p>
+    regular-paragraph_html: >-
+      <p>This is a regular paragraph This is a regular paragraph &nbsp;This is a
+      regular paragraph &nbsp;This is a regular paragraph &nbsp;This is a
+      regular paragraph &nbsp;This is a regular paragraph &nbsp;This is a
+      regular paragraph This is a regular paragraph &nbsp;This is a regular
+      paragraph &nbsp;This is a regular paragraph &nbsp;This is a regular
+      paragraph &nbsp;This is a regular paragraph&nbsp; &nbsp;This is a regular
+      paragraph This is a regular paragraph &nbsp;This is a regular paragraph
+      &nbsp;This is a regular paragraph &nbsp;This is a regular paragraph
+      &nbsp;This is a regular paragraph&nbsp;&nbsp;</p>
 seo:
   meta-title:
   meta-description:
