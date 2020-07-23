@@ -1,11 +1,12 @@
 ---
 layout: post
-title: intro no banner
+title: Intro Block Without Banner
 slug: intro-no-banner
 date: 2020-07-22 10:20:00
 author: Mark T
 categories:
   - Travel
+  - Motivation
 featured_image: /images/website_placeholder_7.jpg
 hide-intro-banner: true
 intro_banner_image:
