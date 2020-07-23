@@ -1,16 +1,33 @@
 ---
 layout: post
-title: post no blocks
-slug: post-no-blocks
+title: Intro Block Without Banner
+slug: intro-no-banner
 date: 2020-07-22 10:20:00
 author: Mark T
 categories:
   - Travel
-featured_image: /images/RB_bali-mickael copy.jpg
-hide-intro-banner: false
-intro_banner_image: /images/website_placeholder_1.jpg
+  - Motivation
+  - Business
+featured_image: /images/website_placeholder_7.jpg
+hide-intro-banner: true
+intro_banner_image:
 background-position: center
 page_blocks:
+  - _id: blog-intro
+    background-image_path: /images/website_placeholder_7.jpg
+    image-size: bg-square
+    statement-paragraph_html: >-
+      <p>This is styled text to make a statement when you open your bog post to
+      encourage people to read further. This is styled text to make a statement
+      when you open your bog post to encourage people to read further. This is
+      styled text to make a statement when you open your bog post to encourage
+      people to read further.</p>
+    regular-paragraph_html: >-
+      <p>This is styled text to make a statement when you open your bog post to
+      encourage people to read further. This is styled text to make a statement
+      when you open your bog post to encourage people to read further. This is
+      styled text to make a statement when you open your bog post to encourage
+      people to read further.</p>
 seo:
   meta-title:
   meta-description:
@@ -20,6 +37,8 @@ _comments:
   featured_image: Displays on the home and blog page
 ---
 
+ofkgmodmkgodfkmgodfmkgdfogm&nbsp;
+
 iis dsoijfo ofjoewjf ewfowejfopmwef weojfwepojfwe fwejf0pwejfwe ewoijfpwejfweonf wefojweofjwe fwojfowejfow fweofijweopjfwoenf wefowejfowjef weofjweoifjewonf wefowejfowejfo wefwofweonfwe foewjfowenf weofjweonfew fowejfowejfwe fowejfowejfowenf weofjweofjwoenf weofjeowifjowe
 
 ## IIS DSOIJFO OFJOEWJF EWFOWEJFOPMWEF WEOJFWEPOJFWE FWEJF0PWEJFWE
@@ -28,18 +47,14 @@ ewoijfpwejfweonf wefojweofjwe fwojfowejfow fweofijweopjfwoenf wefowejfowjef weof
 
 iis dsoijfo ofjoewjf ewfowejfopmwef weojfwepojfwe fwejf0pwejfwe ewoijfpwejfweonf wefojweofjwe fwojfowejfow fweofijweopjfwoenf wefowejfowjef weofjweoifjewonf wefowejfowejfo wefwofweonfwe foewjfowenf weofjweonfew fowejfowejfwe fowejfowejfowenf weofjweofjwoenf weofjeowifjowe
 
-![](/images/website_placeholder_7.jpg){: width="1522" height="986"}
-
-## IIS DSOIJFO OFJOEWJF EWFOWEJFOPMWEF WEOJFWEPOJFWE FWEJF0PWEJFWE
+## IS DSOIJFO OFJOEWJF EWFOWEJFOPMWEF WEOJFWEPOJFWE FWEJF0PWEJFWE
 
 ewoijfpwejfweonf wefojweofjwe fwojfowejfow fweofijweopjfwoenf wefowejfowjef weofjweoifjewonf wefowejfowejfo wefwofweonfwe foewjfowenf weofjweonfew fowejfowejfwe fowejfowejfowenf weofjweofjwoenf weofjeowifjow
 
-&nbsp;
+![](/images/benjamin-davies-mqN-EV9rNlY-unsplash &#40;1&#41;.jpg){: width="640" height="427"}
 
 * ewoijfpwejfweonf wefojweofjwe fwojfowejfow fweofijweopjfwoenf wefowejfowjef
 * weofjweoifjewonf wefowejfowejfo wefwofweonfwe foewjfowenf weofjweonfew fowejfowejfwe
 * fowejfowejfowenf weofjweofjwoenf weofjeowifjow
 
 ksdbijnsodnosd ewoijfpwejfweonf wefojweofjwe fwojfowejfow fweofijweopjfwoenf wefowejfowjef weofjweoifjewonf wefowejfowejfo wefwofweonfwe foewjfowenf weofjweonfew fowejfowejfwe fowejfowejfowenf weofjweofjwoenf weofjeowifjow
-
-#### &nbsp;

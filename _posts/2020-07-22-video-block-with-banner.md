@@ -1,12 +1,13 @@
 ---
 layout: post
-title: video w banner
-slug: video-w-banner
+title: Video block with banner
+slug: video-block-with-banner
 date: 2020-07-22 10:20:00
 author: Mark T
 categories:
-  - Travel
-featured_image: /images/RB_bali-mickael copy.jpg
+  - Motivation
+  - Video
+featured_image: /images/daniel-jensen-tQpypKA92k8-unsplash.jpg
 hide-intro-banner: false
 intro_banner_image: /images/website_placeholder_1.jpg
 background-position: center
@@ -28,3 +29,12 @@ _comments:
   featured_image: Displays on the home and blog page
 ---
 
+## IIS DSOIJFO OFJOEWJF EWFOWEJFOPMWEF WEOJFWEPOJFWE FWEJF0PWEJFWE
+
+ewoijfpwejfweonf wefojweofjwe fwojfowejfow fweofijweopjfwoenf wefowejfowjef weofjweoifjewonf wefowejfowejfo wefwofweonfwe foewjfowenf weofjweonfew fowejfowejfwe fowejfowejfowenf weofjweofjwoenf weofjeowifjowe
+
+iis dsoijfo ofjoewjf ewfowejfopmwef weojfwepojfwe fwejf0pwejfwe ewoijfpwejfweonf wefojweofjwe fwojfowejfow fweofijweopjfwoenf wefowejfowjef weofjweoifjewonf wefowejfowejfo wefwofweonfwe foewjfowenf weofjweonfew fowejfowejfwe fowejfowejfowenf weofjweofjwoenf weofjeowifjowe
+
+## IS DSOIJFO OFJOEWJF EWFOWEJFOPMWEF WEOJFWEPOJFWE FWEJF0PWEJFWE
+
+ewoijfpwejfweonf wefojweofjwe fwojfowejfow fweofijweopjfwoenf wefowejfowjef weofjweoifjewonf wefowejfowejfo wefwofweonfwe foewjfowenf weofjweonfew fowejfowejfwe fowejfowejfowenf weofjweofjwoenf weofjeowifjow

@@ -1,18 +1,19 @@
 ---
 layout: post
-title: podcast w banner
+title: Podcast Block With Banner
 slug: podcast-w-banner
 date: 2020-07-22 10:20:00
 author: Mark T
 categories:
-  - Travel
+  - Business
+  - Podcast
 featured_image: /images/website_placeholder_1.jpg
 hide-intro-banner: false
 intro_banner_image: /images/website_placeholder_1.jpg
 background-position: center
 page_blocks:
   - _id: podcast
-    podcast_image: /images/website_placeholder_3.jpg
+    podcast_image: /images/thai-an-E2Yd6K2A3fE-unsplash.jpg
     sub-heading: Podcast
     heading: Listen To This Episode On
     link-text-1: Apple
