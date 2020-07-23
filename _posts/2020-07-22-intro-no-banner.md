@@ -6,18 +6,26 @@ date: 2020-07-22 10:20:00
 author: Mark T
 categories:
   - Travel
-featured_image: /images/RB_bali-mickael copy.jpg
+featured_image: /images/website_placeholder_7.jpg
 hide-intro-banner: true
 intro_banner_image: /images/website_placeholder_4.jpg
 background-position: center
 page_blocks:
   - _id: blog-intro
-    background-image_path: /images/1a8b930d-e7bb-44cb-a237-383cf2782be7.JPG
-    image-size: bg-tall
+    background-image_path: /images/website_placeholder_7.jpg
+    image-size: bg-square
     statement-paragraph_html: >-
       <p>This is styled text to make a statement when you open your bog post to
-      encourage people to read further.</p>
-    regular-paragraph_html: <p>This is a regular paragraph</p>
+      encourage people to read further. This is styled text to make a statement
+      when you open your bog post to encourage people to read further. This is
+      styled text to make a statement when you open your bog post to encourage
+      people to read further.</p>
+    regular-paragraph_html: >-
+      <p>This is styled text to make a statement when you open your bog post to
+      encourage people to read further. This is styled text to make a statement
+      when you open your bog post to encourage people to read further. This is
+      styled text to make a statement when you open your bog post to encourage
+      people to read further.</p>
 seo:
   meta-title:
   meta-description:
