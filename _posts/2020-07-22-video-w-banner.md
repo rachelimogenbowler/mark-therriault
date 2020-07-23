@@ -6,7 +6,7 @@ date: 2020-07-22 10:20:00
 author: Mark T
 categories:
   - Travel
-featured_image: /images/RB_bali-mickael copy.jpg
+featured_image: /images/daniel-jensen-tQpypKA92k8-unsplash.jpg
 hide-intro-banner: false
 intro_banner_image: /images/website_placeholder_1.jpg
 background-position: center
