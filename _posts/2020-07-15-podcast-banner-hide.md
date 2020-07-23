@@ -8,7 +8,7 @@ categories:
   - Travel
 featured_image: /images/website_placeholder_3.jpg
 hide-intro-banner: true
-intro_banner_image: /images/website_placeholder_4.jpg
+intro_banner_image: /images/website_placeholder_3.jpg
 background-position: center
 page_blocks:
   - _id: podcast
@@ -19,7 +19,14 @@ page_blocks:
     link_url_1: 'https://apps.apple.com/us/app/apple-podcasts/id525463029'
     link-text-2: Spotify
     link_url_2: 'https://open.spotify.com/genre/podcasts-page'
-    podcast-info_html: <p>This is a short description</p>
+    podcast-info_html: >-
+      <p>This is a short description about the podcast episode This is a short
+      description about the podcast episode This is a short description about
+      the podcast episode This is a short description about the podcast episode
+      This is a short description about the podcast episode This is a short
+      description about the podcast episode This is a short description about
+      the podcast episode This is a short description about the podcast episode
+      This is a short description about the podcast episode</p>
 seo:
   meta-title:
   meta-description:
