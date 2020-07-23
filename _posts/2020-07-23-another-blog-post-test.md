@@ -2,7 +2,7 @@
 layout: post
 title: Another blog post test
 slug: Another-blog-post-test
-date: 2020-07-23 10:20:00
+date: 2020-07-23 10:53:00
 author: Mark T
 categories:
   - Motivation
@@ -28,4 +28,4 @@ _comments:
   featured_image: Displays on the home and blog page
 ---
 
-icdsjojojwo nomosd ofjsod osjfoisjfos sonfomfwefnweof. owejfiowejf
+icdsjojojwo nomosd ofjsod osjfoisjfos sonfomfwefnweof. owejfiowejf km
