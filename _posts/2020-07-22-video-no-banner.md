@@ -6,7 +6,7 @@ date: 2020-07-22 10:20:00
 author: Mark T
 categories:
   - Travel
-featured_image: /images/joel-vodell-8Ogfqvw15Rg-unsplash.jpg
+featured_image: /images/jeremy-bishop-7JPerNWjEAE-unsplash.jpeg
 hide-intro-banner: true
 intro_banner_image: /images/joel-vodell-8Ogfqvw15Rg-unsplash.jpg
 background-position: center
