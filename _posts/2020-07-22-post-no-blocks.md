@@ -2,11 +2,11 @@
 layout: post
 title: post no blocks
 slug: post-no-blocks
-date: 2020-07-22 10:20:00
+date: 2020-07-22 19:20:00
 author: Mark T
 categories:
   - Travel
-featured_image: /images/benjamin-davies-mqN-EV9rNlY-unsplash (1).jpg
+featured_image: /images/website_placeholder_3.jpg
 hide-intro-banner: false
 intro_banner_image: /images/benjamin-davies-mqN-EV9rNlY-unsplash (1).jpg
 background-position: center
