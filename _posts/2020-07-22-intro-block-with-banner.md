@@ -1,11 +1,12 @@
 ---
 layout: post
-title: intro w banner
+title: Intro Block With Banner
 slug: intro-w-banner
 date: 2020-07-22 10:20:00
 author: Mark T
 categories:
   - Travel
+  - Motivation
 featured_image: /images/elizeu-dias-rlk6VkHZkns-unsplash.jpg
 hide-intro-banner: false
 intro_banner_image: /images/website_placeholder_1.jpg
