@@ -567,6 +567,48 @@ margin-bottom: 0;
   margin-bottom: 1rem;
 }
 
+.padded {
+  padding: 5%;
+}
+
+.centered {
+  text-align: center;
+}
+
+.max-1400 {
+  max-width: 1400px;
+  margin: auto;
+}
+
+.padded-1 {
+  padding: 1rem;
+}
+
+.no-padding-top {
+  padding-top: 0;
+}
+
+.padded-bottom-2 {
+  padding-bottom: 2rem;
+}
+
+.padded-2 {
+  padding: 2rem;
+}
+
+.box {
+  background-color: #36454f;
+  margin-bottom: 1rem;
+}
+
+.light-text {
+  color: white;
+}
+
+.page-title {
+  margin-bottom: 2.5rem;
+}
+
 /* ------ BANNER -------- */
 
 .banner {
