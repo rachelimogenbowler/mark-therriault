@@ -6,7 +6,6 @@ date: 2020-08-06 10:20:00
 author: Mark T
 categories:
   - Travel
-  - Motivation
 featured_image: /uploads/mark.png
 hide-intro-banner: false
 intro_banner_image: /uploads/screen-shot-2020-08-07-at-4-31-20-pm.png
