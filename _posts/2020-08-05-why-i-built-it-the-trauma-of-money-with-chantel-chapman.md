@@ -2,7 +2,7 @@
 layout: post
 title: 'Why I Built it: The Trauma of Money with Chantel Chapman'
 slug: 'Why I Built it: The Trauma of Money with Chantel Chapman'
-date: 2020-07-16 10:20:00
+date: 2020-08-05 10:20:00
 author: Mark T
 categories:
   - Podcast
