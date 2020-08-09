@@ -8,7 +8,7 @@ date: 2020-07-16 10:20:00
 author: Mark T
 categories:
   - Podcast
-featured_image: /images/luca-bravo-ny6qxqv_m04-unsplash.jpg
+featured_image: /uploads/the-wealth-exchange-nicola-wealth-management-qylmo-cjpg0-300x300.jpg
 hide-intro-banner: true
 intro_banner_image:
 background-position: center
