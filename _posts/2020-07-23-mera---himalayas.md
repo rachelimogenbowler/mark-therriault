@@ -37,7 +37,7 @@ We landed in Lukla, Ong Chu found our two porters, and within an hour we were of
 
 The first week of the trip was unforgettable, and probably the most enjoyable part of the trip. We stayed around 8000 – 11000 ft, hiking up and down mountains to acclimatize. There was no snow, we were in the woods, protected from the sun. We kept talking how everyone needs to do this, how great an adventure this was and how we wished we had invited more people to share this incredible experience with us. There are no roads, just hiking trails between villages and the only traffic you see are Yak and Donkey trains which bring goods to and from all the villages. There are no TV’s, no computers, or smartphones. The people here still cook over an open fire (Inside their wood homes??). What I found most interesting here is that the locals live such simple lives, and I remember thinking in the beginning, how do people live like this, it’s 2019. But every night after dinner, and we went to bed, I could hear our guides and porters drinking tea with the families at the guesthouses just talking, laughing and connecting with each other.&nbsp;
 
-![](/uploads/screen-shot-2020-08-08-at-5-09-26-pm.png){: width="517" height="688"}
+![](/uploads/screen-shot-2020-08-08-at-5-17-43-pm.png){: width="512" height="676"}![](/uploads/screen-shot-2020-08-08-at-5-09-26-pm.png){: width="517" height="688"}
 {: .center}
 
 Like I said, the first week was amazing, the food was good, I was feeling great, and every mountain we summited, an even more spectacular view would appear in front of us. I would wake up every morning at 5 am, and as soon as the sun came up, take my journal and go for a hike and write. Each day the hikes became increasingly harder and longer, but I still felt great.&nbsp;
