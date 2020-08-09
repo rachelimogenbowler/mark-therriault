@@ -4,7 +4,7 @@ title: >-
   Why I Built It: Helping Students Eliminate Debt, Build Wealth and Develop
   Financial Literacy with Jay Seabrook.
 slug: podcast-banner-hide
-date: 2020-07-15 10:20:00
+date: 2020-07-16 10:20:00
 author: Mark T
 categories:
   - Podcast
