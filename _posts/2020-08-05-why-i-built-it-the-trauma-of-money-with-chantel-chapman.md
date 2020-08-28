@@ -6,7 +6,7 @@ date: 2020-08-05 10:20:00
 author: Mark T
 categories:
   - Podcast
-featured_image: /uploads/the-wealth-exchange-nicola-wealth-management-qylmo-cjpg0-300x300.jpg
+featured_image: /uploads/Screenshot 2020-08-28 at 13.38.04.png
 hide-intro-banner: true
 intro_banner_image:
 background-position: center
