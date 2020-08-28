@@ -20,9 +20,11 @@ page_blocks:
       Financial Literacy with Jay Seabrook.
     heading: Listen To This Episode On
     link-text-1: Apple
-    link_url_1: 'https://apps.apple.com/us/app/apple-podcasts/id525463029'
+    link_url_1: >-
+      https://podcasts.apple.com/ca/podcast/why-i-built-it-helping-students-eliminate-debt-build/id1388082893?i=1000476829597
     link-text-2: Spotify
-    link_url_2: 'https://open.spotify.com/genre/podcasts-page'
+    link_url_2: >-
+      https://open.spotify.com/episode/05Hd8aD7xBgAKR4L0bmH6n?si=CvgU0L1mRYyKh-d4Iz2ckQ
     podcast-info_html: >-
       <p>As the markets fluctuate and many lose their jobs, one's relationship
       with money comes to the forefront. Host Mark Therriault speaks with
