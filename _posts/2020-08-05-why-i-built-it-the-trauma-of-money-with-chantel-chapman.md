@@ -15,16 +15,14 @@ page_blocks:
     podcast_image: >-
       /images/the-wealth-exchange-nicola-wealth-cTLtr7nXezh-qyLMO-cJPG0.800x800
       (1).jpg
-    sub-heading: >-
-      Why I Built It: Helping Students Eliminate Debt, Build Wealth and Develop
-      Financial Literacy with Jay Seabrook.
+    sub-heading: 'Why I Built it: The Trauma of Money with Chantel Chapman'
     heading: Listen To This Episode On
     link-text-1: Apple
     link_url_1: >-
-      https://podcasts.apple.com/ca/podcast/why-i-built-it-helping-students-eliminate-debt-build/id1388082893?i=1000476829597
+      https://podcasts.apple.com/ca/podcast/why-i-built-it-the-trauma-of-money-with-chantel-chapman/id1388082893?i=1000471708391
     link-text-2: Spotify
     link_url_2: >-
-      https://open.spotify.com/episode/05Hd8aD7xBgAKR4L0bmH6n?si=CvgU0L1mRYyKh-d4Iz2ckQ
+      https://open.spotify.com/episode/5rOcruorso0fzEErgxaC92?si=u79-J8YbS9WOkCHSxOdWXA
     podcast-info_html: >-
       <p>As the markets fluctuate and many lose their jobs, one's relationship
       with money comes to the forefront. Host Mark Therriault speaks with
