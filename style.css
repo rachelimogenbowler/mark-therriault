@@ -155,6 +155,10 @@ background-color: #f3f3f4;
   max-width: 22rem;
 }
 
+.about-subheading {
+  max-width: 30rem;
+}
+
 .featured-bg-image {
   background-size: cover;
   background-position: center;
