@@ -8,7 +8,7 @@ date: 2020-08-05 10:20:00
 author: Mark T
 categories:
   - Podcast
-featured_image: /uploads/The Wealth Exchange Feature Image.png
+featured_image: /uploads/the-wealth-exchange---rebrand-v1-1.png
 hide-intro-banner: true
 intro_banner_image:
 background-position: center
