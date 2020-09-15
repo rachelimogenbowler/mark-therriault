@@ -781,7 +781,7 @@ h2{
   /* this is where you can change the color of the buttons */
   .burger-button span{
     width: 40px;
-    border: 2px solid black;
+    border: 1px solid black;
     background-color: black;
     display: block;
     border-radius: 22px;
