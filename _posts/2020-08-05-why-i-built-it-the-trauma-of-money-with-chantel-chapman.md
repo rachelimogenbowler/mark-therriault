@@ -12,17 +12,13 @@ intro_banner_image:
 background-position: center
 page_blocks:
   - _id: podcast
-    podcast_image: >-
-      /images/the-wealth-exchange-nicola-wealth-cTLtr7nXezh-qyLMO-cJPG0.800x800
-      (1).jpg
+    podcast_image: /images/the-wealth-exchange-nicola-wealth.jpg
     sub-heading: 'Why I Built it: The Trauma of Money with Chantel Chapman'
     heading: Listen To This Episode On
     link-text-1: Apple
-    link_url_1: >-
-      https://podcasts.apple.com/ca/podcast/why-i-built-it-the-trauma-of-money-with-chantel-chapman/id1388082893?i=1000471708391
+    link_url_1: https://podcasts.apple.com/ca/podcast/why-i-built-it-the-trauma-of-money-with-chantel-chapman/id1388082893?i=1000471708391
     link-text-2: Spotify
-    link_url_2: >-
-      https://open.spotify.com/episode/5rOcruorso0fzEErgxaC92?si=u79-J8YbS9WOkCHSxOdWXA
+    link_url_2: https://open.spotify.com/episode/5rOcruorso0fzEErgxaC92?si=u79-J8YbS9WOkCHSxOdWXA
     podcast-info_html: >-
       <p>As the markets fluctuate and many lose their jobs, one's relationship
       with money comes to the forefront. Host Mark Therriault speaks with
@@ -42,4 +38,3 @@ _comments:
   slug: Overrides the deafult url
   featured_image: Displays on the home and blog page
 ---
-

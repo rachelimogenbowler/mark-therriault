@@ -15,8 +15,7 @@ background-position: center
 page_blocks:
   - _id: podcast
     podcast_image: >-
-      /uploads/the-wealth-exchange-nicola-wealth-cTLtr7nXezh-qyLMO-cJPG0.800x800
-      (1).jpg
+      /images/the-wealth-exchange-nicola-wealth.jpg
     sub-heading: >-
       Why I Built It: Helping Students Eliminate Debt, Build Wealth and Develop
       Financial Literacy with Jay Seabrook.
@@ -42,4 +41,3 @@ _comments:
   slug: Overrides the deafult url
   featured_image: Displays on the home and blog page
 ---
-
