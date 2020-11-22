@@ -8,7 +8,6 @@ date: 2020-08-05 10:20:00
 author: Mark T
 categories:
   - Podcast
-  - The Game
 featured_image: /uploads/the-wealth-exchange---rebrand-v1-1.png
 hide-intro-banner: true
 intro_banner_image:
