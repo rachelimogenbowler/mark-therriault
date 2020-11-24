@@ -6,6 +6,7 @@ date: 2020-08-06 10:20:00
 author: Mark T
 categories:
   - Travel
+  - The Game
 featured_image: /uploads/screen-shot-2020-08-08-at-6-13-17-pm.png
 hide-intro-banner: false
 intro_banner_image: /uploads/screen-shot-2020-08-08-at-6-13-58-pm.png
