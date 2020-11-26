@@ -212,6 +212,10 @@ background-color: #f3f3f4;
   transition: all 0.5s;
 }
 
+#about-read-more {
+  display: none;
+}
+
 .blog-feature-text {
   text-align: right;
 }
