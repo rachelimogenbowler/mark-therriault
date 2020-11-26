@@ -214,6 +214,13 @@ background-color: #f3f3f4;
 
 #about-read-more {
   display: none;
+  text-decoration: none;
+  text-transform: uppercase;
+  padding: 1rem 3rem;
+  border: 1px solid;
+  color: #262F39;
+  display: inline-block;
+  transition: all 0.5s;
 }
 
 .blog-feature-text {
