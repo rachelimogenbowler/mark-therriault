@@ -220,6 +220,12 @@ background-color: #f3f3f4;
   text-align: right;
 }
 
+.button-subtle {
+  border-bottom: 2px solid;
+  padding-bottom: 0.5rem;
+  font-weight: bold;
+}
+
 /* Universal Styles */
 body {
   font-family: 'Montserrat', sans-serif;

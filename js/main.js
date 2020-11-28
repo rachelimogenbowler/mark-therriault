@@ -7,6 +7,6 @@ $( document ).ready(function() {
 });
 
 $('#about-read-more-button').click(function(){
-  $(this).hide();
-  $('#about-read-more').show();
+  $(this).fadeOut();
+  $('#about-read-more').fadeIn();
 });
