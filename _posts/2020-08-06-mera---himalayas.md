@@ -6,7 +6,7 @@ date: 2020-08-06 10:20:00
 author: Mark T
 categories:
   - Travel
-featured_image: /uploads/mark.png
+featured_image: /uploads/Mark Trekking1.jpg
 hide-intro-banner: false
 intro_banner_image: /uploads/screen-shot-2020-08-07-at-4-31-20-pm.png
 background-position: center top
