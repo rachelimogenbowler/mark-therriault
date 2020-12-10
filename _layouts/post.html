@@ -10,8 +10,7 @@ intro_banner_image: /images/website_placeholder_7.jpg
   <h1 class="center">{{page.title}} </h1>
 
   {% if page.hide-intro-banner == false %}
-      <section class="banner margin-t-4"
-      style="background-image:url({{page.intro_banner_image}}); background-position:{{page.background-position}};">
+      <section class="banner margin-t-4" style="background-image:url({{page.intro_banner_image}}); background-position:{{page.background-position}};">
       </section>
   {% endif %}
 
@@ -62,23 +61,27 @@ intro_banner_image: /images/website_placeholder_7.jpg
               <a class="next" href="{{page.next.url}}">{{page.next.title}} &raquo;</a>
             {% endif %}
       </div>
-  </div>
+  </section></div>
 
   <!-- Sidebar -->
   <div class="col-4_sm-12 sidebar padded">
 
         <div class="border-bottom">
 
-          <img class="editable" src='/images/website_placeholder_7.jpg'>
+          <img class="editable" src="/uploads/mark-therriault2-1.jpg" width="1522" />
 
-          <h4 class="editable"> Hey, I'm Mark! </h4>
-          <p class="editable"> SHORT INTRO -  I never dreamt in a million years, that I would be in the position I am today, and 10 years ago I doubt anyone would have either. So let’s talk about that, as it seems like a good place to start... </p>
+          <h4 class="editable">
+            Hey, I'm Mark!
+          </h4>
+          <p class="editable">
+            Forever grateful for the struggle and most difficult times in my life. I can't say I didn't about the life I have today, because I did. I just never believed it was possible from where I was standing 10 years ago. So, let's talk about that, as it seems like a good place to start...
+          </p>
 
         </div>
 
         <div class="border-bottom">
           <h4 class="editable">
-            Recent Posts
+            TOP Posts
           </h4>
           <nav class="post-list">
             {% for post in site.posts limit:4 %}
