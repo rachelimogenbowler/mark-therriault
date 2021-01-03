@@ -5,8 +5,6 @@ slug: video
 date: 2020-07-23 10:20:00
 author: Mark Therriault
 categories:
-  - Travel
-  - Inspiration
   - Video
 featured_image: /134653551_775311479999358_536912463242304176_n.jpg
 hide-intro-banner: true
