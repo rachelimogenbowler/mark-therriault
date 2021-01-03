@@ -8,15 +8,13 @@ date: 2020-08-05 10:20:00
 author: Mark T
 categories:
   - Podcast
-  - Inspiration
 featured_image: /uploads/the-wealth-exchange---rebrand-v1-1.png
 hide-intro-banner: true
 intro_banner_image:
 background-position: center
 page_blocks:
   - _id: podcast
-    podcast_image: >-
-      /images/the-wealth-exchange-nicola-wealth.jpg
+    podcast_image: /images/the-wealth-exchange-nicola-wealth.jpg
     sub-heading: >-
       Why I Built It: Helping Students Eliminate Debt, Build Wealth and Develop
       Financial Literacy with Jay Seabrook.
@@ -42,3 +40,4 @@ _comments:
   slug: Overrides the deafult url
   featured_image: Displays on the home and blog page
 ---
+
