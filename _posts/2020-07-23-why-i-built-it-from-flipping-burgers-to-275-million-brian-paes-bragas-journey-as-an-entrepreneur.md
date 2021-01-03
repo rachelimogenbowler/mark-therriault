@@ -7,8 +7,6 @@ slug: podcast
 date: 2020-07-23 10:20:00
 author: Mark T
 categories:
-  - Travel
-  - Inspiration
   - Podcast
 featured_image: /uploads/The Wealth Exchange Feature Image.png
 hide-intro-banner: true
