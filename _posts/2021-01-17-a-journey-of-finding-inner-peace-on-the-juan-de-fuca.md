@@ -2,7 +2,7 @@
 layout: post
 title: A journey of finding inner peace on the juan de fuca
 slug: video
-date: 2020-07-23 10:20:00
+date: 2021-01-17 10:20:00
 author: Mark Therriault
 categories:
   - Video
