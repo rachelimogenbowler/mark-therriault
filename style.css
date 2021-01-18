@@ -493,6 +493,12 @@ margin-bottom: 0;
 /* font-size: 1.5rem; */
 }
 
+
+blockquote {
+  border-left: 1px solid;
+  padding-left: 1rem 
+}
+
 /*----- BLOCKS STYLING -----*/
 
 .p-statement {

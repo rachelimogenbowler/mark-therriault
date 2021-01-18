@@ -2,7 +2,7 @@
 layout: post
 title: This is your post title
 slug:
-date: 2020-07-23T10:20:00Z
+date:
 author: Mark T
 categories:
   - Travel
