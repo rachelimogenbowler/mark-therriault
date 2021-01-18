@@ -495,8 +495,11 @@ margin-bottom: 0;
 
 
 blockquote {
-  border-left: 1px solid;
-  padding-left: 1rem 
+color: red;
+  font-weight: 200;
+  text-transform: uppercase;
+  margin-bottom: 1.5rem;
+  margin-top: 1rem;
 }
 
 /*----- BLOCKS STYLING -----*/
