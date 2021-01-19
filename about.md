@@ -3,8 +3,15 @@ layout: about
 about_image: /uploads/About Mark Terriault C.jpg
 seo:
   meta-title: About | Mark Therriault
-  meta-description:
-  social-sharing_image:
+  meta-description: >-
+    Mark Therriault joined Nicola Wealth in 2006 as an assistant. After several
+    years of being in the same role, he eventually created his own opportunity
+    to move up, eventually became a partner, and in less than 10 years now
+    manages $500M helping Canadian Entrepreneurs manage their financial affairs.
+    While it is standard that most individuals in the industry focus on just
+    investment management, Mark has also managed to consistently be one of the
+    top producing Insurance advisors in the country over the past few years.
+  social-sharing_image: /images/Mark Therriault Charity Climb About2.jpeg
 ---
 
 When I was a teenager, I was a popular kid that excelled in sports, but I never felt safe in my own skin (20 years later….and still working on it). I was raised by a single father who had a short temper and was incredibly strict. Fear was the method of rule in our home. Alcohol became an avenue for me to escape those feelings of fear. It gave me the confidence I didn’t have, took me out of my head and decreased my anxiety (which I’ve always had a lot of).<br><br>This continued into University, where I was more focused on going out and hanging out with friends than I was on getting an education. I can remember many starts of semesters when I thought to myself, ”Ok this semester, you aren’t going to drink. You are going to apply yourself and see what you are capable of”. It usually lasted maybe 1 or 2 days, at most, before I was back to living as I had before.<br>&nbsp;
